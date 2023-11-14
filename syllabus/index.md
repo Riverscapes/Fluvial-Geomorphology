@@ -14,16 +14,17 @@ weight: 1
 |**Credits**: |3.000 Credit hours |
 |**Levels**: |Graduate, Undergraduate|
 |**Schedule Types**: |Hybrid Face to Face Lecture |
-|**Cross-Listed As**: |WATS 6150/ GEO 5150/6150|
-|**Pre-requisites**| For Undergraduates: WATS 3600 (Geomorphology)  and WATS 4490 (Small Watershed Hydrology).|
+|**Cross-Listed As**: |WATS 6150 GEO 5150/6150 CEWA 6510|
+|**Pre-requisites**| For Undergraduates: WATS 3600 (Geomorphology)  and WATS 4490 (Small Watershed Hydrology). There is no prerequiste for graduate students and students taking the course for CEU|
 
 
 ## Schedule
 
-This course will typically be taught every Spring (pending adequate demand). The first revamped version of the class was taught in [Spring 2021]({{ site.baseurl }}/syllabus/2021_Spring.html) and again was taught in [Spring 2022]({{ site.baseurl }}/syllabus/2022_Spring.html). The next class is scheduled to be taught [Spring 2024]({{ site.baseurl }}/syllabus/2024_Spring.html). There are **no planned offerings for Spring 2023** of Fluvial as Wheaton will be on sabbatical  for Fall 2022- Spring 2023.
+This course will typically be taught every Spring (pending adequate demand). The first revamped version of the class was taught in [Spring 2021]({{ site.baseurl }}/syllabus/2021_Spring.html) and again was taught in [Spring 2022]({{ site.baseurl }}/syllabus/2022_Spring.html). The next class is scheduled to be taught [Spring 2024]({{ site.baseurl }}/syllabus/2024_Spring.html). 
 
+<div align="center">
 <a class="hollow button" href="{{ site.baseurl }}/syllabus/2024_Spring.html)"><img src="{{ site.baseurl }}/assets/images/favicons/android-icon-48x48.png">  See <b>Spring 2024</b> <br> Schedule & Syllabus </a>  
-
+</div>
 
 
 #### Past Versions
@@ -40,7 +41,9 @@ Past versions of the course give an idea of the schedule, syllabus and work the 
 ------
 
 # Fees
-Regular Tuition. $150 Field Trips course fee.
+
+**USU Students** - USU tuition & $150 Field Trips course fee.
+**Non-USU Students** - $945
 
 # Course Objectives
 

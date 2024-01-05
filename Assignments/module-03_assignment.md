@@ -12,7 +12,7 @@ weight: 2
 
 You will be performing a variety of morphometrics analyses of the Logan River Watershed.
 
-On your website, please make a web-page for [module 3]({{ site.baseurl }}/Course_Topics/module-03.html) (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - 1601020303). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well. Make sure all questions are answered.
+On your website, please make a web-page for [module 3]({{ site.baseurl }}/Course_Topics/module-03.html) (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - [1601020303](https://data.riverscapes.net/s?type=Project&meta=HUC%3A1601020303&geo=-111.70878756791353%2C41.88449839624283%2C10.054070350045233)). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well. Make sure all questions are answered.
 
 ### Assignment Tasks
 

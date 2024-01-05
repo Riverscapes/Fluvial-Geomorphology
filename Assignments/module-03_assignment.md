@@ -52,7 +52,7 @@ For the perennial drainage network of the Logan River:
 ----------
 ## Tips
 You can get carried away with this assignment. I wouldn't recommend starting there. What's the minimum reasonable method you could use to make the above measurements and calculations? Some of you are experienced GIS users, others are not. So the answer will be different for each of you.
-- Yes, learning how to do all this in GIS is helpful. However, there are a ton of tricks to get everything in the right units and make sure you are getting exactly what you want. The precision is nice, but not necessary here. If you need a [refresher on GIS, see here](http://gis.joewheaton.org/topics/introgis). 
+- Yes, learning how to do all this in GIS is helpful. However, there are a ton of tricks to get everything in the right units and make sure you are getting exactly what you want. The precision is nice, but not necessary here. If you need a [refresher on GIS, see here](https://mgimond.github.io/Spatial/introGIS.html). 
 - You can do this entire assignment from the [USGS National Map Viewer](https://viewer.nationalmap.gov/advanced-viewer/) or a paper or PDF [Topo Quad](https://www.sciencebase.gov/catalog/item/5e3bc574e4b0edb47bdf09b6)
 - You can do some of this assignment from Google Earth
 

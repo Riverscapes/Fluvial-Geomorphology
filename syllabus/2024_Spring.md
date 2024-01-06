@@ -8,7 +8,7 @@ weight: 1
 </div>
 
 ## Registration 
-We are offering Ecohydraulics for Continuing Education Units (CEU) & USU Academic Credit. USU students should register for WATS/GEO 5150 or WATS/GEO 6150 depending on their department and course level. Non-USU students and professionals taking the class for CEU should register for CEWA 6150 - Fluvial Geomorphology.  
+For the first time, we are offering Ecohydraulics for Continuing Education Units (CEU) & USU Academic Credit. USU students should register for WATS/GEO 5150 or WATS/GEO 6150 depending on their department and standing as undergraduates or graduates. Non-USU students and professionals taking the class for CEU should register for CEWA 6150 - Fluvial Geomorphology.  
 
 <div align="center">
 <a class="hollow button" href="https://ss.banner.usu.edu/StudentRegistrationSsb/ssb/registration/registration" target="blank"><b>Register for USU Academic Credit</b><br>USU Students</a>
@@ -26,28 +26,22 @@ We are offering Ecohydraulics for Continuing Education Units (CEU) & USU Academi
 
 
 
-| Class     | Time              | Days | Where                     | Dates                 |  Instructors                                                                                         |
+| Class     | Time              | Days | Where                     | Dates                 |  Instructor(s)                                                                                         |
 |----------|-------------------|------|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| Discussion, Workshop and/or Field Trips    | 1:30 pm - 5:00 pm | Monday    | F2F in Logan DE105 and online via [Zoom]() | Jan 8 - Apr 23,  2024 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
-| Lecture /Discussion | 1:30 pm - 2:30 pm | Wednesday    |  F2F in Logan DE105 and online via [Zoom]()  | Jan 8 - Apr 23,  2024 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
+| Discussion, Workshop and/or Field Trips    | 1:30 pm - 5:00 pm | Monday    | F2F in Logan DE105 and online via Zoom | Jan 8 - Apr 23,  2024 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
+| Lecture /Discussion | 1:30 pm - 2:30 pm | Wednesday    |  F2F in Logan DE105 and online via Zoom  | Jan 8 - Apr 23,  2024 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
+
+_See [Canvas](https://usu.instructure.com/courses/753134) for Zoom Links.
+
+This is a hybrid face to face delivery class, and we plan to meet in person at at [DE 105](https://www.usu.edu/map/index.cfm?id=540) most every Monday and Wednesday (unless a field trip is scheduled for Monday by prior arrangement) if permissible. Those taking the class for CEU credit will primarily be joining us by Zoom. For those unable to attend field trips (due to remote participation) I will give you instructions for how to recreate the field trip we are doing, on your own by visiting riverscapes near you.   
 
 
-This is a face to face delivery class, and we plan to meet in person at at [TBD](https://www.usu.edu/map/index.cfm?id=540) most every Monday and Wednesday (unless a field trip is scheduled for Monday by prior arrangement) if permissible. However, we are in the midst of a pandemic (see [student guidelines](https://www.usu.edu/covid-19/communications/students)). Stay home if you're sick, have symptoms or have been exposed. I will turn on Zoom each time we meet in person to make it easy for you to participate if you are in self-isolation, or quarantine and would like to participate. If you are too sick to participate during class, please let me know ahead of time and I can record our class session. We may also sometimes opt to meet virtually as a class and in such instances  we will be using the same [Zoom Link]().  
-
-<!---
-<div align="center">
-<a class="hollow button" target="blank" href="https://usu-edu.zoom.us/j/86463317630?pwd=Q0VKc2xxWHhibDVuK3Fqd3NlNE0rQT09"><img src="{{ site.baseurl }}/assets/images/zoom_icon_32.png">  <b>Zoom Meeting Link</b><br>By Arrangement</a>
-
-</div>
-- Add Monday to your Google Calendar (with Zoom link):  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2s5OWFxaDM5aWo2dmI4ZmZmcHBrZHBiaDVfMjAyMjAxMjRUMjAzMDAwWiBmbzExb3VrZXFzYzRna3BmMDBnbGxvczRqa0Bn&amp;tmsrc=fo11oukeqsc4gkpf00gllos4jk%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
-- Add Wednesday to your Google Calendar  (with Zoom link): <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N283M28yM3Nkcm4wY2IwNWFwNjQzZWhza2dfMjAyMjAxMTlUMjAzMDAwWiBmbzExb3VrZXFzYzRna3BmMDBnbGxvczRqa0Bn&amp;tmsrc=fo11oukeqsc4gkpf00gllos4jk%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
--->
 
 ### Course Schedule / Outline
 
 <!--- Don't forget to update Canvas link --->
 <div align="center">
-<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2024 Canvas</b><br> For Latest Schedule</a>
+<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/753134"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2024 Canvas</b><br> For Latest Schedule</a>
 </div>
 
 
@@ -106,7 +100,14 @@ This is a face to face delivery class, and we plan to meet in person at at [TBD]
     <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
      Professor of Riverscapes<br>
    <b>Instructor</b><br>
-   Office Hour: Wednesday, 12:00 to 13:00 - <a href="https://usu-edu.zoom.us/my/h20joe?pwd=eFNjSllqT3VDNTRoLzZ3Sk9IM1F6UT09">Zoom Drop-In</a> or By Appointment
+   Office Hours: Tuesday, 11:00 to 12:00 MT - <a href="https://usu-edu.zoom.us/j/83341579485?pwd=NVhTL01YNjJzRW1xTmRLbmxYS2hZUT09">Zoom</a> or In-Person at NR360
+  </div>
+  <div class="column column-block">
+    <a href="hhttps://www.anabranchsolutions.com/alec-arditti.html"><img src="{{ site.baseurl }}/assets/images/people/Alec_Round200.png"></a>
+    <h4><a href="https://www.anabranchsolutions.com/alec-arditti.html">Alec Arditti<sup>1,2</sup></a></h4>
+     Geomorphologist & Project Manager<br>
+   <b>Teaching Assistant</b><br>
+   Office Hours: by Appointment
   </div>
   <div class="column column-block">
     <a href="https://qcnr.usu.edu/wats/index"><img src="{{ site.baseurl }}/assets/images/logos/USU.png"></a>1. 
@@ -175,14 +176,7 @@ This is the so-called "River-Styles" text book and is a helpful follow up refere
 
 
 
-------
 
-- [Course Requirements]({{ site.baseurl }}/syllabus/#course-requirements)
-- [Evaluation Methods and Criteria]({{ site.baseurl }}/syllabus/#evaluation-methods-and-criteria)
-- [Grade Scheme]({{ site.baseurl }}/syllabus/#grade-scheme)
-- [University Policies & Procedures]({{ site.baseurl }}/syllabus/#university-policies--procedures)
-
----------
 
 
 <!---

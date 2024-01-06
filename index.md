@@ -6,7 +6,10 @@ weight: 1
 ## WATS 5150 Course Overview
 
 <img class="float-left" src="{{ site.baseurl }}/assets/images/pics/WATS-5150_Canvas.png">
-Welcome to the Fluvial Geomorphology Course Website! This website is primarily for students of the [WATS 5150/6150]({{ site.baseurl }}/syllabus/), [GEO 5150/6150]({{ site.baseurl }}/syllabus/), and [CEWA 6150]({{ site.baseurl }}/syllabus/) introductory fluvial geomorphology course taught at [Utah State University](https://qcnr.usu.edu/wats/). Secondary audiences may include other students and practitioners looking for an introduction to fluvial geomorphology and the study of riverscapes. 
+
+Welcome to the Fluvial Geomorphology Course Website! This online resource is designed primarily for students enrolled in the introductory fluvial geomorphology courses, including [WATS 5150/6150]({{ site.baseurl }}/syllabus/), [GEO 5150/6150]({{ site.baseurl }}/syllabus/), and [CEWA 6150]({{ site.baseurl }}/syllabus/) introductory fluvial geomorphology course taught at [Utah State University](https://qcnr.usu.edu/wats/). However, it also serves as a valuable introduction to the fascinating field of fluvial geomorphology and will build an appreciation of riverscapes for students and practitioners seeking knowledge in this area.
+
+
 <br><br>
 <div align="center">
 	<a class="hollow button" href="{{ site.baseurl }}/syllabus/"> See Syllabai <br> for More Details</a>
@@ -31,8 +34,8 @@ For students enrolled, all course materials, such as lectures, videos and resour
 
 <div align="center">
 
-	<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/698781"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring  2022</b> Canvas WATS 5150 Course</a>  
+	<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/753134"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring  2024</b> Canvas WATS 5150 Course</a>  
 	
-	<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/637781"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2021 Canvas WATS 5150 Course</a>  
+	<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/698781"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  Spring  2022 Canvas WATS 5150 Course</a>  
 
 </div>

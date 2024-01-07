@@ -91,7 +91,7 @@ This is a hybrid face to face delivery class, and we plan to meet in person at a
 - [Course Objectives]({{ site.baseurl }}/syllabus/#course-objectives)
 
 ------
-# Instructor
+# Instruction Team
 
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 

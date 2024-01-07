@@ -31,7 +31,7 @@ For the first time, we are offering Ecohydraulics for Continuing Education Units
 | Discussion, Workshop and/or Field Trips    | 1:30 pm - 5:00 pm | Monday    | F2F in Logan DE105 and online via Zoom | Jan 8 - Apr 23,  2024 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
 | Lecture /Discussion | 1:30 pm - 2:30 pm | Wednesday    |  F2F in Logan DE105 and online via Zoom  | Jan 8 - Apr 23,  2024 |  [Joseph Michael Wheaton ](http://joewheaton.org) |
 
-_See [Canvas](https://usu.instructure.com/courses/753134) for Zoom Links.
+_See [Canvas](https://usu.instructure.com/courses/753134) for Zoom Link._
 
 This is a hybrid face to face delivery class, and we plan to meet in person at at [DE 105](https://www.usu.edu/map/index.cfm?id=540) most every Monday and Wednesday (unless a field trip is scheduled for Monday by prior arrangement) if permissible. Those taking the class for CEU credit will primarily be joining us by Zoom. For those unable to attend field trips (due to remote participation) I will give you instructions for how to recreate the field trip we are doing, on your own by visiting riverscapes near you.   
 

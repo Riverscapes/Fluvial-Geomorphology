@@ -12,7 +12,7 @@ weight: 2
 
 You will be performing a variety of morphometrics analyses of the Logan River Watershed.
 
-On your website, please make a web-page for [module 3]({{ site.baseurl }}/Course_Topics/module-03.html) (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - [1601020303](https://data.riverscapes.net/s?type=Project&meta=HUC%3A1601020303&geo=-111.70878756791353%2C41.88449839624283%2C10.054070350045233)). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well. Make sure all questions are answered.
+On your website, please make a web-page for [module 3]({{ site.baseurl }}/Course_Topics/module-03.html) (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - [1601020303](https://data.riverscapes.net/p/d033fd87-b155-4a72-a272-29fa701fff78/). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well. Make sure all questions are answered.
 
 ### Assignment Tasks
 
@@ -61,13 +61,9 @@ You can get carried away with this assignment. I wouldn't recommend starting the
 
 ### Riverscapes Context 
 
-A [Riverscapes Context Project for HUC 16010203 (Little-Bear Logan)](https://data.riverscapes.xyz/#/BEAR/36f363c1-3b46-4185-9077-377936643a15) from the [Riverscapes Consortium](http://riverscapes.xyz). - *<i class="fa fa-file-archive-o" aria-hidden="true"></i> 446.87 MB Riverscapes Project viewable in ArcGIS or QGIS with [RAVE](http://rave.riverscapes.xyz)*. This project has the watershed boundary, DEM and drainage network lines (you can also go find them on other USGS and USDA websites), as well as a ton of additional context. You do not *need* this project to do the homework, but if you plan to do it in ArcGIS 10.6 or later (not ArcGIS Pro), this will help. You can also view the project in [WebRAVE here](https://webrave.riverscapes.xyz/#/BEAR/36f363c1-3b46-4185-9077-377936643a15).
+A [Riverscapes Context Project for HUC 1601020303 (Logan River)](https://data.riverscapes.net/p/d033fd87-b155-4a72-a272-29fa701fff78/) from the [Riverscapes Consortium](http://riverscapes.net). - *<i class="fa fa-file-archive-o" aria-hidden="true"></i> 446.87 MB Riverscapes Project viewable in ArcGIS 10.x (sorry no ArcPro yet) or QGIS with [Viewer](http://viewer.riverscapes.net)*. This project has the watershed boundary, DEM and drainage network lines (you can also go find them on other USGS and USDA websites), as well as a ton of additional context. You do not *need* this project to do the homework, but if you plan to do it in ArcGIS 10.6 or later (not ArcGIS Pro), or QGIS this will help. You can also use the data in ArcPro, but the symbology will not come in automatically.
 
-To download above project, you will need [to create an account](https://riverscapes.xyz/Data_Warehouses/signup.html) and to request access from Joe.
-
-### TauDEM Project
-[TauDEM Project for HUC 16010203 (Little-Bear Logan)](https://webrave.riverscapes.xyz/#/BEAR/ba8b8bf7-a519-4038-ac27-1a2ba3d832e2)
-
+If you are intersted in other Riverscapes Projects for the Logan River, see [here](https://data.riverscapes.net/s?type=Project&boundsId=778facfe-ac34-4ff7-b70c-096d25267162&geo=-111.70878756791353%2C41.88449839624283%2C9.287251608945853).
 
 
 ### Shapefiles Prepped

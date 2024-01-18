@@ -63,7 +63,7 @@ You can get carried away with this assignment. I wouldn't recommend starting the
 
 A [Riverscapes Context Project for HUC 1601020303 (Logan River)](https://data.riverscapes.net/p/d033fd87-b155-4a72-a272-29fa701fff78/) from the [Riverscapes Consortium](http://riverscapes.net). - *<i class="fa fa-file-archive-o" aria-hidden="true"></i> 446.87 MB Riverscapes Project viewable in ArcGIS 10.x (sorry no ArcPro yet) or QGIS with [Viewer](http://viewer.riverscapes.net)*. This project has the watershed boundary, DEM and drainage network lines (you can also go find them on other USGS and USDA websites), as well as a ton of additional context. You do not *need* this project to do the homework, but if you plan to do it in ArcGIS 10.6 or later (not ArcGIS Pro), or QGIS this will help. You can also use the data in ArcPro, but the symbology will not come in automatically.
 
-If you are intersted in other Riverscapes Projects for the Logan River, see [here](https://data.riverscapes.net/s?type=Project&boundsId=778facfe-ac34-4ff7-b70c-096d25267162&geo=-111.70878756791353%2C41.88449839624283%2C9.287251608945853).
+If you are interested in other Riverscapes Projects for the Logan River, see [here](https://data.riverscapes.net/s?type=Project&boundsId=778facfe-ac34-4ff7-b70c-096d25267162&geo=-111.70878756791353%2C41.88449839624283%2C9.287251608945853).
 
 
 ### Shapefiles Prepped

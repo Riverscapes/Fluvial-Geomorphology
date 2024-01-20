@@ -127,7 +127,7 @@ If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/
         <h4>Open Riverscapes Project in QGIS with Riverscapes Viewer</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://youtu.be/dUfr9DfFvcA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dUfr9DfFvcA?si=GS-0ysVqASyMjscx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
 
@@ -144,7 +144,7 @@ If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/
       <div class="card-section">
         <h4> Create a profile in QGIS</h4>
     <div class="responsive-embed">
-        	<iframe width="560" height="315" src="https://youtu.be/obMxneWdGeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        	<iframe width="560" height="315" src="https://www.youtube.com/embed/obMxneWdGeg?si=gUMs7b4QxniqGO27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         	</div>
         
         <br><br> <i class="fa fa-clock-o" aria-hidden="true"></i> 3  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>

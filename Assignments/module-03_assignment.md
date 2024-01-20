@@ -116,6 +116,43 @@ If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/
   </div>
 </div>
 
+<div class="row small-up-2 medium-up-2">
 
+
+  <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4>Open Riverscapes Project in QGIS with Riverscapes Viewer</h4>
+        <div class="responsive-embed"> 
+
+<iframe width="560" height="315" src="https://youtu.be/dUfr9DfFvcA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
+</div>
+<i class="fa fa-clock-o" aria-hidden="true"></i> 3 minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div>
+
+    <div class="column">
+    <div class="card">
+
+
+      <div class="card-section">
+        <h4> Create a profile in QGIS</h4>
+    <div class="responsive-embed">
+        	<iframe width="560" height="315" src="https://youtu.be/obMxneWdGeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        	</div>
+        
+        <br><br> <i class="fa fa-clock-o" aria-hidden="true"></i> 3  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+        
+      </div>
+    </div>
+
+  </div>
+</div>
 ------
 

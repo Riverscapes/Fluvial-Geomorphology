@@ -107,8 +107,7 @@ If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/
     <div class="responsive-embed">
         	<iframe width="560" height="315" src="https://www.youtube.com/embed/Uhbob-qacso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</div>
-
-</div>        
+      
         <br><br> <i class="fa fa-clock-o" aria-hidden="true"></i> < 4  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
         
       </div>
@@ -147,8 +146,7 @@ If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/
     <div class="responsive-embed">
         	<iframe width="560" height="315" src="https://www.youtube.com/embed/obMxneWdGeg?si=gUMs7b4QxniqGO27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         	</div>
-
-</div>        
+       
         <br><br> <i class="fa fa-clock-o" aria-hidden="true"></i> 3  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
         
       </div>

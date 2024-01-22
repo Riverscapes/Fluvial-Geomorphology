@@ -12,7 +12,7 @@ weight: 2
 
 You will be performing a variety of morphometrics analyses of the Logan River Watershed.
 
-On your website, please make a web-page for [module 3]({{ site.baseurl }}/Course_Topics/module-03.html) (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - [1601020303](https://data.riverscapes.net/p/d033fd87-b155-4a72-a272-29fa701fff78/). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well. Make sure all questions are answered.
+On your website, please make a web-page for [module 3]({{ site.baseurl }}/Course_Topics/module-03.html) (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - [1601020303](https://data.riverscapes.net/p/d033fd87-b155-4a72-a272-29fa701fff78/). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well, including how you calculated each of your metrics/values. Make sure all questions are answered.
 
 ### Assignment Tasks
 
@@ -108,7 +108,7 @@ If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/
         	<iframe width="560" height="315" src="https://www.youtube.com/embed/Uhbob-qacso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</div>
       
-        <br><br> <i class="fa fa-clock-o" aria-hidden="true"></i> < 4  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+         <i class="fa fa-clock-o" aria-hidden="true"></i> < 4  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
         
       </div>
     </div>
@@ -147,7 +147,7 @@ If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/
         	<iframe width="560" height="315" src="https://www.youtube.com/embed/obMxneWdGeg?si=gUMs7b4QxniqGO27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         	</div>
        
-        <br><br> <i class="fa fa-clock-o" aria-hidden="true"></i> 3  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
+         <i class="fa fa-clock-o" aria-hidden="true"></i> 3  minutes <i class="fa fa-youtube-play" aria-hidden="true"></i>
         
       </div>
     </div>

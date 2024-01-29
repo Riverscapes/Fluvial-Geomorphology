@@ -97,7 +97,7 @@ The [2021 class]({{ site.baseurl }}/Fluvial-Geomorphology/syllabus/2021_Spring.h
         <h4>Alec Arditti</h4>
         <div class="responsive-embed"> 
 
-<iframe width="511" height="346" src="https://www.youtube.com/embed/MwpGo2fPxdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CMA8-D2dlwU?si=-RGJNscgJ1g7Ear6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
 

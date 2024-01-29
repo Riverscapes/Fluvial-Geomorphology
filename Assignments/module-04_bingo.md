@@ -71,16 +71,16 @@ Thanks to everyone for [sharing their Bingo Pages](https://usu.instructure.com/c
 - [Alec Arditti](https://sites.google.com/view/fluvialgeomorph/projectsassignments/bingo)
 - [Gabe Benitez](https://gavabe45.wixsite.com/website/post/module-4-field-notebook-hydrology-bingo)
 - Bryce Bollinger
-- [Haley Canham](https://sites.google.com/aggiemail.usu.edu/hcanham-fluvial/home/module-4)
-- [Amy Carmellini](https://sites.google.com/aggiemail.usu.edu/fluv/projects/hydrology-bingo)
+<!-- - [Haley Canham](https://sites.google.com/aggiemail.usu.edu/hcanham-fluvial/home/module-4) -->
+<!-- - [Amy Carmellini](https://sites.google.com/aggiemail.usu.edu/fluv/projects/hydrology-bingo) -->
 - [Jeffrey Chandler](https://sites.google.com/view/jeffreycgeomorphology/projectsassingmnets/bingo-assignment)
 - [Casey Choate](https://cchoate2.wixsite.com/fluvial/field-notebook-copy)
 - [Daniel Cremin-Thurber](https://danielthurber.weebly.com/fluvial-geomorphology/hydrology-bingo)
-- [Denny Haynes](https://fluvialhaynes.weebly.com/hydrology-bingo.html)
-- [Lauren Herbine](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/field-notebook/hydrology-bingo?authuser=1)
+<!-- - [Denny Haynes](https://fluvialhaynes.weebly.com/hydrology-bingo.html) -->
+<!-- - [Lauren Herbine](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/field-notebook/hydrology-bingo?authuser=1) --->
 - [Megh Raj](https://fluvialtalk.weebly.com/module-4---bingo.html)
-- [Carter Lybeck](https://sites.google.com/view/fluvialgeomorphology/field-notebook/hydrology-bingo)
-- [Kathryn Ann Margetts](https://sites.google.com/view/field-observations/projectsassignments/assignment-3-hydrologic-processes)
+<!-- - [Carter Lybeck](https://sites.google.com/view/fluvialgeomorphology/field-notebook/hydrology-bingo) --->
+- [Kathryn Ann Margetts](https://sites.google.com/view/kat-sd/field-observations/projectsassignments/assignment-3-hydrologic-processes)
 - [Manisha Panthi](https://waterinaction.wordpress.com/lets-play/)
 - [Anna Paulding](https://geology3a.weebly.com/hydrology-bingo.html)
 - [Shelby Sawyer](https://sites.google.com/view/shelbysawyer/projects-assignments/bingo)
@@ -179,8 +179,8 @@ The 2021 Winners (first three to declare Bingo) were:
 #### Worth a Look
 Just cool examples:
 - [Casey's site](https://cchoate2.wixsite.com/fluvial/field-notebook-copy) is well worth a look.
-- [Haley](https://sites.google.com/aggiemail.usu.edu/hcanham-fluvial/home/module-4) got a double bingo and had a great sheet flow example.
-- [Amy](https://sites.google.com/aggiemail.usu.edu/fluv/projects/hydrology-bingo) did a really exemplar job explaining the hydrologic processes in each of her videos as well as defining them in the videos.
+<!-- - [Haley](https://sites.google.com/aggiemail.usu.edu/hcanham-fluvial/home/module-4) got a double bingo and had a great sheet flow example. --->
+<!-- - [Amy](https://sites.google.com/aggiemail.usu.edu/fluv/projects/hydrology-bingo) did a really exemplar job explaining the hydrologic processes in each of her videos as well as defining them in the videos. --->
 - [Daniel](https://danielthurber.weebly.com/fluvial-geomorphology/hydrology-bingo) and [Jeff](https://sites.google.com/view/jeffreycgeomorphology/projectsassingmnets/bingo-assignment?authuser=0) both have a ton of the bingo card populated with links to  videos. Daniel's explanations and definitions are exceptionally clear and useful. I was particularly impressed by the coffee infiltration (I think Daniel could be one of those professional narrators or book on tape readers):
 <div class="row small-up-2 medium-up-2">
 
@@ -207,8 +207,8 @@ Just cool examples:
 
 </div>
 
-- [Lauren](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/field-notebook/hydrology-bingo?authuser=0) has some really fun examples and nice stories to go along with each.
-- [Denny's](https://fluvialhaynes.weebly.com/hydrology-bingo.html) definitions were a really helpful way to present these.
+<!-- - [Lauren](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/field-notebook/hydrology-bingo?authuser=0) has some really fun examples and nice stories to go along with each. --->
+- [Denny's](https://fluvialhaynes.weebly.com/hydrology-bingo.html) definitions were a really helpful way to present these. --->
 - [Megh](https://fluvialtalk.weebly.com/module-4---bingo.html) had some great examples in his including some real rain and a serious flood in Nepal:
 <div class="row small-up-2 medium-up-2">
 

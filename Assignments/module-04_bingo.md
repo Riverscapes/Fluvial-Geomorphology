@@ -68,7 +68,7 @@ Thanks to everyone for [sharing their Bingo Pages](https://usu.instructure.com/c
 
 - [Triton Abeyta](https://sites.google.com/view/tritonabeytawats5150/module-4)
 - [Jens Ammon](https://jensammon5.wixsite.com/jens/field-notes)
-- [Alec Andretti](https://sites.google.com/d/1IBDElw-fjeHXFKm5ndgJHb4ZgG-1-6TR/p/1hgyfsrGpYBBqErOpti-4AdS-aQS6RPkm/edit)
+- [Alec Arditti](https://sites.google.com/view/fluvialgeomorph/home)
 - [Gabe Benitez](https://gavabe45.wixsite.com/website/post/module-4-field-notebook-hydrology-bingo)
 - Bryce Bollinger
 - [Haley Canham](https://sites.google.com/aggiemail.usu.edu/hcanham-fluvial/home/module-4)

@@ -131,7 +131,7 @@ The 2021 Winners (first three to declare Bingo) were:
   </div>
 </div>
 
-### [Jens Hammon](https://jensammon5.wixsite.com/jens/field-notes)
+### [Jens Ammon](https://jensammon5.wixsite.com/jens/field-notes)
 
 
 <div class="row small-up-2 medium-up-2">
@@ -208,7 +208,7 @@ Just cool examples:
 </div>
 
 <!-- - [Lauren](https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/field-notebook/hydrology-bingo?authuser=0) has some really fun examples and nice stories to go along with each. --->
-- [Denny's](https://fluvialhaynes.weebly.com/hydrology-bingo.html) definitions were a really helpful way to present these. --->
+<!-- - [Denny's](https://fluvialhaynes.weebly.com/hydrology-bingo.html) definitions were a really helpful way to present these. --->
 - [Megh](https://fluvialtalk.weebly.com/module-4---bingo.html) had some great examples in his including some real rain and a serious flood in Nepal:
 <div class="row small-up-2 medium-up-2">
 
@@ -221,7 +221,7 @@ Just cool examples:
         
         <div class="responsive-embed"> 
 
-<iframe width="1000" height="593" src="https://www.youtube.com/embed/9jOosfcYU0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="1000" height="593" src="https://www.youtube.com/embed/9jOosfcYU0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 
@@ -237,7 +237,7 @@ Just cool examples:
 
       <div class="card-section">
         
-        <div class="responsive-embed"> 
+        <div class="responsive-embed"> --->
 
 <img src="https://fluvialtalk.weebly.com/uploads/1/3/5/8/135836902/overbank-flow_orig.jpg"  >
 <br>

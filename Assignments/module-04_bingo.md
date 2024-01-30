@@ -141,7 +141,7 @@ The 2021 Winners (first three to declare Bingo) were:
     <div class="card">
 
 
-      <div class="card-section">
+ <!--     <div class="card-section">
         <h4>Saturation Excess Overland Flow</h4>
         <div class="responsive-embed"> 
 
@@ -150,7 +150,7 @@ The 2021 Winners (first three to declare Bingo) were:
 
 
 </div>
-<!-- <a href="https://jensammon5.wixsite.com/jens/field-notes">Jens</a> didn't get bingo on this video, but it was a cool example  <a href="https://jensammon5.wixsite.com/jens/field-notesl">module 4 Bingo assignment</a> <i class="fa fa-gamepad" aria-hidden="true"></i>
+ <a href="https://jensammon5.wixsite.com/jens/field-notes">Jens</a> didn't get bingo on this video, but it was a cool example  <a href="https://jensammon5.wixsite.com/jens/field-notesl">module 4 Bingo assignment</a> <i class="fa fa-gamepad" aria-hidden="true"></i>
 
       </div>
     </div>

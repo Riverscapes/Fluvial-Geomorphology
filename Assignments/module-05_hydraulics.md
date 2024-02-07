@@ -159,7 +159,7 @@ The [2021 class]({{ site.baseurl }}/Fluvial-Geomorphology/syllabus/2021_Spring.h
         <h4>Kat Ann Margretts</h4>
         <div class="responsive-embed"> 
 
-<a href="https://sites.google.com/view/kat-sd/projectsassignments/assignment-4-the-dirty-virgin?authuser=0"><img src="https://lh4.googleusercontent.com/OeSkArz-GkkDTJRNP0xjAXC5VqRw2oiotC9-xi-10vEtkvb9fGzigvLjPf6tb3L2FXyx5bbSz75DEw2g2mkGdpCUsWHD0zsgMwprgR3NKJVook5SpbtHBBT4RmznCd_PfQ=w1280"></a>
+<a href="https://sites.google.com/view/kat-sd/projectsassignments/assignment-4-the-dirty-virgin?authuser=0"><img src="https://lh5.googleusercontent.com/8fDAeKT0-yESUkCocbVUcm5pbzI3uGBxskPAA0o4eZhmrtHDe6hK9r5DQlyQOW5CpHKEPBKguvzRnNDSJBweeTn4IBT6z3LbgkwWnkQPrmH3bBObI5G6ED8Xh5BiAoA-Gw=w1280"></a>
 <br>
 
 

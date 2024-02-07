@@ -97,7 +97,7 @@ The [2021 class]({{ site.baseurl }}/Fluvial-Geomorphology/syllabus/2021_Spring.h
         <h4>Alec Arditti</h4>
         <div class="responsive-embed"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CMA8-D2dlwU?si=-RGJNscgJ1g7Ear6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sJwEmhOJtak?si=JS_iaaXfmD7r5l-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
 
@@ -120,7 +120,7 @@ The [2021 class]({{ site.baseurl }}/Fluvial-Geomorphology/syllabus/2021_Spring.h
 
 
 </div>
-<i class="fa fa-clock-o" aria-hidden="true"></i> <a href="https://sites.google.com/aggiemail.usu.edu/alec-arditti-fluvial/home?authuser=0">Lauren</a> did a nice job of adding annotations to her video describing this hydrualic jump <a href="https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/field-notebook/spring-hollow-hydraulics?authuser=0">module 5 assignment</a>. <i class="fa fa-youtube-play" aria-hidden="true"></i>
+<i class="fa fa-clock-o" aria-hidden="true"></i> <a href="https://sites.google.com/aggiemail.usu.edu/alec-arditti-fluvial/home?authuser=0">Lauren</a> did a nice job of adding annotations to her video describing this hydraulic jump <a href="https://sites.google.com/aggiemail.usu.edu/lauren-herbine-fluvgeomorph/field-notebook/spring-hollow-hydraulics?authuser=0">module 5 assignment</a>. <i class="fa fa-youtube-play" aria-hidden="true"></i>
 
       </div>
     </div>

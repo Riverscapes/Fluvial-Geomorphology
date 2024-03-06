@@ -19,7 +19,7 @@ The goals of this assignment is to i) give you experience working with topograph
 ## Prerequisites
 Students/Participants are expected to have some previous GIS experience, familiarity with ArcGIS (don’t need to be an expert), and some understanding of topographic data and digital elevation models.
 
-If its been a while since you've used ArcGIS and you want a refresher, you may find these '[Getting Organized and Oriented](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented)' pages helpful, or you may find [Task 1](http://gis.joewheaton.org/assignments/labs/lab01/task-1---build-map) of this [Intro to GIS Lab Exercise](http://gis.joewheaton.org/assignments/labs/lab01)  helpful (don't bother with the making a website portion; Task 2 and 3). 
+<----- Outdated links...If its been a while since you've used ArcGIS and you want a refresher, you may find these '[Getting Organized and Oriented](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented)' pages helpful, or you may find [Task 1](http://gis.joewheaton.org/assignments/labs/lab01/task-1---build-map) of this [Intro to GIS Lab Exercise](http://gis.joewheaton.org/assignments/labs/lab01)  helpful (don't bother with the making a website portion; Task 2 and 3). 
 
 #### Computer & Software  Requirements
 
@@ -39,7 +39,7 @@ If you need a [Education Edition](http://esri.com/educationedition/) license for
 ### Part 1 - Get Ready For Monday - Build Project & Do Some Budget Segregation
 
 For the first part of this assignment, I want you to do:
-- 1.A Download the [Feshie Data](http://gcd.riverscapes.xyz/example-data-sets.html) (also below)
+- 1.A Download the [Feshie Data](http://gcd.riverscapes.xyz/Tutorials/example-data-sets.html) (also below)
 - 1. B Create a [GCD Project](http://gcd.riverscapes.xyz/Concepts/projects.html) (you will bring this to class on Monday and turn this in for Part 2) with at least:
   -  1.B.1: Three of the Five years loaded as surveys (see videos for how to do error modelling)
   - 1.B.2: Two change detections (threshold @ 80% probability) for two of the epochs 

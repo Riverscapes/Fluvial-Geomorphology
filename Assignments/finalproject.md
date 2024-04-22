@@ -31,7 +31,7 @@ You should aim to minimally answer the following questions in this section:
 - What is the flow regime?
 - What is the geologic setting? 
 <img class="float-right" width="250" src="{{ site.baseurl }}/assets/images/pics/landscapeUnits.png">
-- What is the physiographic setting? A map of landscape units (e.g., US [EPA Ecoregions](https://www.epa.gov/eco-re(search/ecoregions)) and how they intersect the drainage network would be helpful.
+- What is the physiographic setting? A map of landscape units (e.g., US [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions)) and how they intersect the drainage network would be helpful.
 - What are the dominant vegetation communities and their distribution in the watershed (e.g., forests, grasslands, rangelands, crops, developed, etc.)?
 - What is the shape & size of the catchment? You may choose to report some of the simpler catchment  morphometrics for your watershed (from Chapter 3).
 - What is the mainstem length of the major river in your watershed?

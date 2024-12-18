@@ -1,10 +1,11 @@
 ---
 title: Spring 2025 Syllabus
-weight: 1
+description: Fluvial Geomorphology
+banner: true
 ---
 # WATS/GEO 5150, WATS/GEO 6150, CEWA 6150- Spring 2025 Syllabus
 <div align="center">
-<img width="500" src="{{ site.baseurl }}/assets/images/pics/BridgePatsBDA.png">
+<img width="500" src="/assets/images/pics/BridgePatsBDA.png">
 </div>
 
 ## Registration 
@@ -44,7 +45,7 @@ Course materials will be made available one week prior to the start of term.
 <!--- Don't forget to update Canvas link 
 
 <div align="center">
-<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/753134"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>See Spring 2025 Canvas</b><br> For Latest Schedule</a>
+<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/753134"><img src="/assets/images/canvas_logo.png">  <b>See Spring 2025 Canvas</b><br> For Latest Schedule</a>
 </div>
 
 --->
@@ -55,35 +56,35 @@ Course materials will be made available one week prior to the start of term.
 
 | Week | M/W  |                 Date                 | Module                                           | Topic                                                        | Book Chapter                                                 |
 | ---- | ---- | :----------------------------------: | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | Mon  |                 1/6                 | [1]({{ site.baseurl }}/Course_Topics/module-01)  | [Geomorphic Analysis - Reading the Landscape]({{ site.baseurl }}/Course_Topics/module-01) | [**Chapter 1**: Geomorphic analysis of river systems: an approach to reading the landscape](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=17) |
-| 1   | Wed  |                 1/8                 | [2]({{ site.baseurl }}/Course_Topics/module-02) | [Key Concepts in Fluvial Geomorphology]({{ site.baseurl }}/Course_Topics/module-02) | [**Chapter 2**: Key concepts in river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=25) |
-| 2 | Mon       | 1/13 | [3]({{ site.baseurl }}/Course_Topics/module-03) | [Catchment-Scale Controls on River Geomorphology]({{ site.baseurl }}/Course_Topics/module-03) | [**Chapter 3**: Catchment-scale controls on river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=45) |
-| 2 | Wed | 1/15 | [4]({{ site.baseurl }}/Course_Topics/module-04) | [Catchment Hydrology]({{ site.baseurl }}/Course_Topics/module-03) | [**Chapter 4**: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60) |
+| 1    | Mon  |                 1/6                 | [1](/Course_Topics/module-01)  | [Geomorphic Analysis - Reading the Landscape](/Course_Topics/module-01) | [**Chapter 1**: Geomorphic analysis of river systems: an approach to reading the landscape](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=17) |
+| 1   | Wed  |                 1/8                 | [2](/Course_Topics/module-02) | [Key Concepts in Fluvial Geomorphology](/Course_Topics/module-02) | [**Chapter 2**: Key concepts in river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=25) |
+| 2 | Mon       | 1/13 | [3](/Course_Topics/module-03) | [Catchment-Scale Controls on River Geomorphology](/Course_Topics/module-03) | [**Chapter 3**: Catchment-scale controls on river geomorphology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=45) |
+| 2 | Wed | 1/15 | [4](/Course_Topics/module-04) | [Catchment Hydrology](/Course_Topics/module-03) | [**Chapter 4**: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60) |
 | 3 | Mon  |       MLK Holiday Monday 1/20       |                                                  |                                                              |                                                              |
-| 3    | Wed  |                1/22                | [4]({{ site.baseurl }}/Course_Topics/module-04) | [Catchment Hydrology]({{ site.baseurl }}/Course_Topics/module-03) | [**Chapter 4**: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60) |
-| 4    | Mon  |                 1/27                 | [5]({{ site.baseurl }}/Course_Topics/module-05) | [Hydraulics]({{ site.baseurl }}/Course_Topics/module-04) | [**Chapter 5**: Impelling and resisting forces in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=81) |
-| 4    | Wed  |                 1/29                 | [5]({{ site.baseurl }}/Course_Topics/module-05)  | [Hydraulics]({{ site.baseurl }}/Course_Topics/module-05)     | [**Chapter 5**: Impelling and resisting forces in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=81) |
-| 5    | Mon  |                 2/3                 | [6]({{ site.baseurl }}/Course_Topics/module-06)  | [Fluvial Geomorphic Processes]({{ site.baseurl }}/Course_Topics/module-06) | [**Chapter 6**: Sediment movement and deposition in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=97) |
-| 5    | Wed  |                 2/5                 | [6]({{ site.baseurl }}/Course_Topics/module-06)  | [Fluvial Geomorphic Processes]({{ site.baseurl }}/Course_Topics/module-06) | [**Chapter 6**: Sediment movement and deposition in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=97) |
-| 6    | Mon  |                 2/10                 | [7]({{ site.baseurl }}/Course_Topics/module-07)  | [Channel Geometry]({{ site.baseurl }}/Course_Topics/module-07) | [**Chapter 7**: Channel geometry](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=132) |
-| 6    | Wed |                 2/12                 | [8]({{ site.baseurl }}/Course_Topics/module-08)  | [Instream Forms]({{ site.baseurl }}/Course_Topics/module-08) | [**Chapter 8**: Instream geomorphic units](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=148) |
+| 3    | Wed  |                1/22                | [4](/Course_Topics/module-04) | [Catchment Hydrology](/Course_Topics/module-03) | [**Chapter 4**: Catchment hydrology](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=60) |
+| 4    | Mon  |                 1/27                 | [5](/Course_Topics/module-05) | [Hydraulics](/Course_Topics/module-04) | [**Chapter 5**: Impelling and resisting forces in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=81) |
+| 4    | Wed  |                 1/29                 | [5](/Course_Topics/module-05)  | [Hydraulics](/Course_Topics/module-05)     | [**Chapter 5**: Impelling and resisting forces in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=81) |
+| 5    | Mon  |                 2/3                 | [6](/Course_Topics/module-06)  | [Fluvial Geomorphic Processes](/Course_Topics/module-06) | [**Chapter 6**: Sediment movement and deposition in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=97) |
+| 5    | Wed  |                 2/5                 | [6](/Course_Topics/module-06)  | [Fluvial Geomorphic Processes](/Course_Topics/module-06) | [**Chapter 6**: Sediment movement and deposition in river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=97) |
+| 6    | Mon  |                 2/10                 | [7](/Course_Topics/module-07)  | [Channel Geometry](/Course_Topics/module-07) | [**Chapter 7**: Channel geometry](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=132) |
+| 6    | Wed |                 2/12                 | [8](/Course_Topics/module-08)  | [Instream Forms](/Course_Topics/module-08) | [**Chapter 8**: Instream geomorphic units](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=148) |
 | 7    | Mon  | Presidents Day Monday 2/17; No Class |                                                  |                                                              |                                                              |
-| 7    | Wed  |                 2/19                 | [8]({{ site.baseurl }}/Course_Topics/module-08)  | [Instream Forms]({{ site.baseurl }}/Course_Topics/module-08) | [**Chapter 8**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=148) |
-| 8    | Mon  |                 2/24                 | [9]({{ site.baseurl }}/Course_Topics/module-09)  | [Floodplain Forms & Processes]({{ site.baseurl }}/Course_Topics/module-09) | [**Chapter 9**: Floodplain forms and processes](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=171) |
-| 8    | Wed  |                 2/26                 | [9]({{ site.baseurl }}/Course_Topics/module-09)  | [Floodplain Forms & Processes]({{ site.baseurl }}/Course_Topics/module-09) | [**Chapter 9**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=171) |
-| 9    | Mon  |                 3/3                 | [10]({{ site.baseurl }}/Course_Topics/module-10) | [River Diversity]({{ site.baseurl }}/Course_Topics/module-10) | [**Chapter 10**: River diversity](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=190) |
-| 9    | Wed  |                 3/5                 | [10]({{ site.baseurl }}/Course_Topics/module-10) | [River Diversity]({{ site.baseurl }}/Course_Topics/module-10) | [**Chapter 10**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=190) |
+| 7    | Wed  |                 2/19                 | [8](/Course_Topics/module-08)  | [Instream Forms](/Course_Topics/module-08) | [**Chapter 8**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=148) |
+| 8    | Mon  |                 2/24                 | [9](/Course_Topics/module-09)  | [Floodplain Forms & Processes](/Course_Topics/module-09) | [**Chapter 9**: Floodplain forms and processes](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=171) |
+| 8    | Wed  |                 2/26                 | [9](/Course_Topics/module-09)  | [Floodplain Forms & Processes](/Course_Topics/module-09) | [**Chapter 9**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=171) |
+| 9    | Mon  |                 3/3                 | [10](/Course_Topics/module-10) | [River Diversity](/Course_Topics/module-10) | [**Chapter 10**: River diversity](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=190) |
+| 9    | Wed  |                 3/5                 | [10](/Course_Topics/module-10) | [River Diversity](/Course_Topics/module-10) | [**Chapter 10**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=190) |
 |     | Mon - Fri  | Sring Break; No Class |      3/10 to 3/14                                          |    Optional Field Trip TBD                                                          |                                                              |
-| 10   | Mon  |                 3/17                 | [11]({{ site.baseurl }}/Course_Topics/module-11) | [River Behavior]({{ site.baseurl }}/Course_Topics/module-11) | [**Chapter 11**: River behaviour](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=221) |
-| 10   | Wed  |                 3/29                 | [11]({{ site.baseurl }}/Course_Topics/module-11) | [River Behavior]({{ site.baseurl }}/Course_Topics/module-11) | [**Chapter 11**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=221) |
-| 11   | Mon  |                 3/24                 | [12]({{ site.baseurl }}/Course_Topics/module-12) | [River Evolution]({{ site.baseurl }}/Course_Topics/module-12) | [**Chapter 12**: River evolution](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=251) |
-| 11   | Wed  |                3/26                | [12]({{ site.baseurl }}/Course_Topics/module-12) | [River Evolution]({{ site.baseurl }}/Course_Topics/module-12) | [**Chapter 12**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=251) |
-| 12   | Mon  |                 3/31                 | [13]({{ site.baseurl }}/Course_Topics/module-13) | [Human Impacts on River Systems]({{ site.baseurl }}/Course_Topics/module-13) | [**Chapter 13**: Human impacts on river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=285) |
-| 12   | Wed  |                 4/2                 | [13]({{ site.baseurl }}/Course_Topics/module-13) | [Human Impacts on River Systems]({{ site.baseurl }}/Course_Topics/module-13) | [**Chapter 13**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=285) |
-| 13   | Mon  |                 4/7                 | [14]({{ site.baseurl }}/Course_Topics/module-14) | [Sediment Flux at Catchment Scale]({{ site.baseurl }}/Course_Topics/module-14) | [**Chapter 14**: Sediment flux at the catchment scale: source-to-sink relationships](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=313) |
-| 13   | Wed  |                 4/19                 | [14]({{ site.baseurl }}/Course_Topics/module-14) | [Sediment Flux at Catchment Scale]({{ site.baseurl }}/Course_Topics/module-14) | [**Chapter 14**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=313) |
-| 14   | Mon  |                 4/14                 | [15]({{ site.baseurl }}/Course_Topics/module-15) | [Applications of Fluvial Geomorphology]({{ site.baseurl }}/Course_Topics/module-15) | [**Chapter 15**: The usefulness of river geomorphology: reading the landscape in practice](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=336) |
-| 14   | Wed  |                 4/16                 | [15]({{ site.baseurl }}/Course_Topics/module-15) | [Applications of Fluvial Geomorphology]({{ site.baseurl }}/Course_Topics/module-15) | [**Chapter 15**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=336) |
+| 10   | Mon  |                 3/17                 | [11](/Course_Topics/module-11) | [River Behavior](/Course_Topics/module-11) | [**Chapter 11**: River behaviour](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=221) |
+| 10   | Wed  |                 3/29                 | [11](/Course_Topics/module-11) | [River Behavior](/Course_Topics/module-11) | [**Chapter 11**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=221) |
+| 11   | Mon  |                 3/24                 | [12](/Course_Topics/module-12) | [River Evolution](/Course_Topics/module-12) | [**Chapter 12**: River evolution](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=251) |
+| 11   | Wed  |                3/26                | [12](/Course_Topics/module-12) | [River Evolution](/Course_Topics/module-12) | [**Chapter 12**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=251) |
+| 12   | Mon  |                 3/31                 | [13](/Course_Topics/module-13) | [Human Impacts on River Systems](/Course_Topics/module-13) | [**Chapter 13**: Human impacts on river systems](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=285) |
+| 12   | Wed  |                 4/2                 | [13](/Course_Topics/module-13) | [Human Impacts on River Systems](/Course_Topics/module-13) | [**Chapter 13**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=285) |
+| 13   | Mon  |                 4/7                 | [14](/Course_Topics/module-14) | [Sediment Flux at Catchment Scale](/Course_Topics/module-14) | [**Chapter 14**: Sediment flux at the catchment scale: source-to-sink relationships](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=313) |
+| 13   | Wed  |                 4/19                 | [14](/Course_Topics/module-14) | [Sediment Flux at Catchment Scale](/Course_Topics/module-14) | [**Chapter 14**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=313) |
+| 14   | Mon  |                 4/14                 | [15](/Course_Topics/module-15) | [Applications of Fluvial Geomorphology](/Course_Topics/module-15) | [**Chapter 15**: The usefulness of river geomorphology: reading the landscape in practice](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=336) |
+| 14   | Wed  |                 4/16                 | [15](/Course_Topics/module-15) | [Applications of Fluvial Geomorphology](/Course_Topics/module-15) | [**Chapter 15**](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=336) |
 | 15   | Mon  |                 4/21                 |                                                  | Projects                                                         |                                                              |
 | 15   | Tue  |                 4/22                 |                                                |                                                      | Last Day of Classes 4/23/24                                   |
 
@@ -91,8 +92,8 @@ Course materials will be made available one week prior to the start of term.
 
 ------
 
-- [Fees]({{ site.baseurl }}/syllabus/#fees)
-- [Course Objectives]({{ site.baseurl }}/syllabus/#course-objectives)
+- [Fees](/syllabus/#fees)
+- [Course Objectives](/syllabus/#course-objectives)
 
 ------
 # Instruction Team
@@ -100,7 +101,7 @@ Course materials will be made available one week prior to the start of term.
 <div class="row small-up-2 medium-up-2 large-up-4" align="center">
 
    <div class="column column-block">
-    <a href="http://joewheaton.org"><img src="{{ site.baseurl }}/assets/images/people/Joe_Cartoon_KellyStanford_Round200.png"></a>
+    <a href="http://joewheaton.org"><img src="/assets/images/people/Joe_Cartoon_KellyStanford_Round200.png"></a>
     <h4><a href="http://joewheaton.org">Joseph Wheaton<sup>1,2</sup></a></h4>
      Professor of Riverscapes<br>
    <b>Instructor</b><br>
@@ -125,9 +126,9 @@ Course materials will be made available one week prior to the start of term.
 <!---- dont' forget to update Canvas link 
 
 <div align="center">
-<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/753134"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 6150 - Geomorphology</a>
+<a class="hollow button" target="blank" href="https://usu.instructure.com/courses/753134"><img src="/assets/images/canvas_logo.png">  <b>Spring 2025 Canvas</b><br> WATS 6150 - Geomorphology</a>
 
-<a class="hollow button" href="{{ site.baseurl }}/modules"><img src="{{ site.baseurl }}/assets/images/presentation.png"> <b>Modules</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
+<a class="hollow button" href="/modules"><img src="/assets/images/presentation.png"> <b>Modules</b> <br> Slides  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>, Recorded Lectures <i class="fa fa-youtube-play" aria-hidden="true"></i> and Exercises </a>
 ---->
 
 
@@ -138,7 +139,7 @@ Course materials will be made available one week prior to the start of term.
 
 ### Fyirs & Brierley (2013)
 
-<a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/ReadingLandscape.png"></a> Fryirs KA, Brierley GA. 2013. [Geomorphic Analysis of River Systems: An Approach to Reading the Landscape](https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743), First Edition.  Blackwell Publishing Ltd.: Chichester, U.K.
+<a href="https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743"><img class="float-right" src="/assets/images/covers/ReadingLandscape.png"></a> Fryirs KA, Brierley GA. 2013. [Geomorphic Analysis of River Systems: An Approach to Reading the Landscape](https://www.wiley.com/en-au/Geomorphic+Analysis+of+River+Systems%3A+An+Approach+to+Reading+the+Landscape-p-9781405192743), First Edition.  Blackwell Publishing Ltd.: Chichester, U.K.
 
 To view through the library by Chapter:
 - [CHAPTER ONE: Geomorphic analysis of river systems: an approach to reading the landscape](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1032536&ppg=17)
@@ -161,7 +162,7 @@ See also the [Student Companion website](http://bcs.wiley.com/he-bcs/Books?actio
 
 ### Brierley & Fryirs (2005) - Optional
 This is the so-called "River-Styles" text book and is a helpful follow up reference (not required)
-<a href="https://www.wiley.com/en-au/Geomorphology+and+River+Management%3A+Applications+of+the+River+Styles+Framework-p-9781405115162"><img class="float-right" src="{{ site.baseurl }}/assets/images/covers/RiverStyles.jpg"></a> 
+<a href="https://www.wiley.com/en-au/Geomorphology+and+River+Management%3A+Applications+of+the+River+Styles+Framework-p-9781405115162"><img class="float-right" src="/assets/images/covers/RiverStyles.jpg"></a> 
 
   - <a href="https://usu.instructure.com/courses/580268/files/folder/Reading?preview=77096604"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> Brierley, G., and K. Fryirs 2005. [Geomorphology and River Management: Applications of the River Styles Framework](https://www.wiley.com/en-au/Geomorphology+and+River+Management%3A+Applications+of+the+River+Styles+Framework-p-9781405115162). Blackwell Publishing, Victoria, Australia. 
 

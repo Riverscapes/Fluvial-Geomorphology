@@ -1,6 +1,7 @@
 ---
 title: 	Instream Geomorphic Units from GUT
-weight: 8
+descrpiton: Module 8 Assignment
+banner: true
 ---
 # Module 8 - Instream Geomorphic Units from GUT
 

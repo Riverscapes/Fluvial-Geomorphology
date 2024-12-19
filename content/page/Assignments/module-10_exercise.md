@@ -1,6 +1,7 @@
 ---
 title: 	River Diversity Exercise
-weight: 10
+descrpiton: Module 10 Assignment
+banner: true
 ---
 # Module 10 - River Diversity Exercise
 

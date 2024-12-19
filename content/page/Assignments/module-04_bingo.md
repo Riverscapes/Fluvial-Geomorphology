@@ -1,6 +1,7 @@
 ---
 title: 	Hydrology Bingo
-weight: 3
+descrpiton: Module 4 Assignment
+banner: true
 ---
 # Module 4 Field Notebook: Hydrology Bingo
 

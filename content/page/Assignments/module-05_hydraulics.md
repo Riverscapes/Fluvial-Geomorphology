@@ -1,6 +1,7 @@
 ---
 title: 	Hydraulics Field Observation
-weight: 5
+descrpiton: Module 5 Assignment
+banner: true
 ---
 # Module 5 Field Observations: Hydraulics
 

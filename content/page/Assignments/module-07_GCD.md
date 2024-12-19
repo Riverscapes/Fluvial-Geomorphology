@@ -1,6 +1,7 @@
 ---
 title: 	Topographic Changes
-weight: 7
+descrpiton: Module 7 Assignment
+banner: true
 ---
 # Module 7 - Topographic Changes
 

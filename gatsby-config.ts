@@ -25,19 +25,45 @@ module.exports = {
     },
     menuLinks: [
       {
-        title: 'Menu Item 1',
-        url: '/subfolder/innerpage',
+        title: 'Home',
+        url: '/',
         items: [
           {
-            title: 'SubMenu 1',
-            url: '/subfolder/innerpage',
+            title: 'Syllabus',
+            url: '/syllabus',
           },
           {
-            title: 'SubMenu 2',
-            url: '/subfolder/innerpage',
+            title: 'Course Topics',
+            url: '/Course_Topics',
           },
-        ],
+          {
+            title: 'Assignments',
+            url: '/Assignments',
+          },
+       ],
       },
+      {
+        title: 'Canvas',
+        url: 'https://usu.instructure.com/courses/778039'
+      },
+      {
+        title: 'Riverscapes Consortium',
+        url: 'https://riverscapes.net',
+        items: [
+          {
+            title: 'Data Exchange',
+            url: 'https://data.riverscapes.net'
+          },
+          {
+            title: 'Support',
+            url: 'https://riverscapes.freshdesk.com'
+          },
+          {
+            title: 'QRiS',
+            url: 'https://qris.riverscapes.net'
+          }
+        ],
+      }
     ],
   },
   plugins: [

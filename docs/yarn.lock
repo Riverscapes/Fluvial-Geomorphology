@@ -3134,6 +3134,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@riverscapes/fluvial-geomorphology@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@riverscapes/fluvial-geomorphology@workspace:."
+  dependencies:
+    "@riverscapes/gatsby-theme": "npm:*"
+    gatsby: "npm:^5.13.0"
+    react: "npm:^18.2.0"
+    react-dom: "npm:^18.2.0"
+    typescript: "npm:^4.7.2"
+  languageName: unknown
+  linkType: soft
+
 "@riverscapes/gatsby-theme@npm:*":
   version: 0.1.32
   resolution: "@riverscapes/gatsby-theme@npm:0.1.32"
@@ -3168,18 +3180,6 @@ __metadata:
   checksum: 10c0/416e1382fc223820c1c0aa2d31f5251797ab2e13c5745a66508b46a551a74607f0d4edf71f8567b15d2df7583ed953238f55def20dd0f52154429510aa3a4265
   languageName: node
   linkType: hard
-
-"@riverscapes/template-clean@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@riverscapes/template-clean@workspace:."
-  dependencies:
-    "@riverscapes/gatsby-theme": "npm:*"
-    gatsby: "npm:^5.13.0"
-    react: "npm:^18.2.0"
-    react-dom: "npm:^18.2.0"
-    typescript: "npm:^4.7.2"
-  languageName: unknown
-  linkType: soft
 
 "@rtsao/scc@npm:^1.1.0":
   version: 1.1.0

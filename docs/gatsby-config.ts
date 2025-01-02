@@ -10,16 +10,16 @@ module.exports = {
     // Eventually this needs to go away but likely not until the Gatsby webpack version is updated
     DEV_SSR: false,
   },
-  pathPrefix: '/riverscapes-template',
+  pathPrefix: '/Fluvial-Geomorphology',
   siteMetadata: {
-    title: `Riverscapes Template Site`,
+    title: `Fluvial Geomorphology`,
     author: {
-      name: `North Arrow Research`,
+      name: `Joe Wheaton`,
     },
     // TODO: Just leave `helpWidgetId` as an empty string ('') if you don't want the riverscapes help widget in the footer
-    helpWidgetId: '153000000178',
+    helpWidgetId: '',
     description: ``,
-    siteUrl: `https://YOURSITEURLHERE`,
+    siteUrl: `https://riverscapes.github.io/Fluvial-Geomorphology/`,
     social: {
       twitter: `RiverscapesC`,
     },

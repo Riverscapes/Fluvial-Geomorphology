@@ -1,10 +1,10 @@
 {
-  "name": "@riverscapes/template-clean",
-  "description": "Riverscapes website powered by Gatsby and Markdown",
+  "name": "@riverscapes/fluvial-geomorphology",
+  "description": "Gatsby site for Fluvial Geomorphology",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "author": "Matt Reimer <matt@northarrowresearch.com>",
+  "author": "Joe Wheaton <matt@northarrowresearch.com>",
   "dependencies": {
     "@riverscapes/gatsby-theme": "*",
     "gatsby": "^5.13.0",

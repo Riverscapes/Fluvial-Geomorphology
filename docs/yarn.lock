@@ -1514,7 +1514,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@emotion/react@npm:^11.11.0":
+"@emotion/react@npm:^11.14.0":
   version: 11.14.0
   resolution: "@emotion/react@npm:11.14.0"
   dependencies:
@@ -1555,7 +1555,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@emotion/styled@npm:^11.11.0":
+"@emotion/styled@npm:^11.14.0":
   version: 11.14.0
   resolution: "@emotion/styled@npm:11.14.0"
   dependencies:
@@ -1678,14 +1678,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/jetbrains-mono@npm:^5.0.2":
+"@fontsource/jetbrains-mono@npm:^5.1.2":
   version: 5.1.2
   resolution: "@fontsource/jetbrains-mono@npm:5.1.2"
   checksum: 10c0/8e83974206f6848f69eaf329ab920ffcebf933e2b526d575291f5efc2f0b07f5628524cec225bb7608ea1c67883f18e13ee2691d2b8874df013acd6f4987fb9d
   languageName: node
   linkType: hard
 
-"@fontsource/karla@npm:^5.0.2":
+"@fontsource/karla@npm:^5.1.1":
   version: 5.1.1
   resolution: "@fontsource/karla@npm:5.1.1"
   checksum: 10c0/95488814105a2316518350063b5186f9b63ab08ecc0845afec8f8b1e72fbe5d1bb90385e7962c695db6eb8516726eb04249effb0a752134de43fbbad0dd8fb58
@@ -2304,7 +2304,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mui/icons-material@npm:^5.14.8":
+"@mui/icons-material@npm:^5.16.13":
   version: 5.16.13
   resolution: "@mui/icons-material@npm:5.16.13"
   dependencies:
@@ -2320,7 +2320,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mui/material@npm:^5.14.8":
+"@mui/material@npm:^5.16.13":
   version: 5.16.13
   resolution: "@mui/material@npm:5.16.13"
   dependencies:
@@ -3138,7 +3138,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@riverscapes/fluvial-geomorphology@workspace:."
   dependencies:
-    "@riverscapes/gatsby-theme": "npm:*"
+    "@riverscapes/gatsby-theme": "npm:0.1.33"
     gatsby: "npm:^5.13.0"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
@@ -3146,38 +3146,38 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@riverscapes/gatsby-theme@npm:*":
-  version: 0.1.32
-  resolution: "@riverscapes/gatsby-theme@npm:0.1.32"
+"@riverscapes/gatsby-theme@npm:0.1.33":
+  version: 0.1.33
+  resolution: "@riverscapes/gatsby-theme@npm:0.1.33"
   dependencies:
-    "@emotion/react": "npm:^11.11.0"
-    "@emotion/styled": "npm:^11.11.0"
-    "@fontsource/jetbrains-mono": "npm:^5.0.2"
-    "@fontsource/karla": "npm:^5.0.2"
+    "@emotion/react": "npm:^11.14.0"
+    "@emotion/styled": "npm:^11.14.0"
+    "@fontsource/jetbrains-mono": "npm:^5.1.2"
+    "@fontsource/karla": "npm:^5.1.1"
     "@mdx-js/react": "npm:^2.3.0"
-    "@mui/icons-material": "npm:^5.14.8"
-    "@mui/material": "npm:^5.14.8"
+    "@mui/icons-material": "npm:^5.16.13"
+    "@mui/material": "npm:^5.16.13"
     "@mui/x-tree-view": "npm:^6.17.0"
-    gatsby-plugin-image: "npm:^3.10.0"
-    gatsby-plugin-manifest: "npm:^5.13.0"
-    gatsby-plugin-mdx: "npm:^5.13.0"
+    gatsby-plugin-image: "npm:^3.14.0"
+    gatsby-plugin-manifest: "npm:^5.14.0"
+    gatsby-plugin-mdx: "npm:^5.14.0"
     gatsby-plugin-mdx-source-name: "npm:^1.0.1"
-    gatsby-plugin-sharp: "npm:^5.13.0"
-    gatsby-remark-autolink-headers: "npm:^6.10.0"
-    gatsby-remark-prismjs: "npm:^7.10.0"
-    gatsby-remark-responsive-iframe: "npm:^6.10.0"
-    gatsby-source-filesystem: "npm:^5.13.0"
-    gatsby-transformer-json: "npm:^5.13.1"
-    gatsby-transformer-remark: "npm:^6.13.0"
-    gatsby-transformer-sharp: "npm:^5.13.0"
-    loglevel: "npm:^1.8.1"
+    gatsby-plugin-sharp: "npm:^5.14.0"
+    gatsby-remark-autolink-headers: "npm:^6.14.0"
+    gatsby-remark-prismjs: "npm:^7.14.0"
+    gatsby-remark-responsive-iframe: "npm:^6.14.0"
+    gatsby-source-filesystem: "npm:^5.14.0"
+    gatsby-transformer-json: "npm:^5.14.0"
+    gatsby-transformer-remark: "npm:^6.14.0"
+    gatsby-transformer-sharp: "npm:^5.14.0"
+    loglevel: "npm:^1.9.2"
     prismjs: "npm:^1.29.0"
-    remark-gfm: "npm:^3.0.0"
+    remark-gfm: "npm:^3.0.1"
   peerDependencies:
     gatsby: ^5.13.0
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 10c0/416e1382fc223820c1c0aa2d31f5251797ab2e13c5745a66508b46a551a74607f0d4edf71f8567b15d2df7583ed953238f55def20dd0f52154429510aa3a4265
+  checksum: 10c0/e5eebdd2f0c703c5fc0d3cbfaecf059008d513809845cb6514f068e22aec9693c8d0e8c6192b42e1fdc057b3fe341c41df1e33f51c6bc50a09f93e42d78bd042
   languageName: node
   linkType: hard
 
@@ -8104,7 +8104,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-image@npm:^3.10.0":
+"gatsby-plugin-image@npm:^3.14.0":
   version: 3.14.0
   resolution: "gatsby-plugin-image@npm:3.14.0"
   dependencies:
@@ -8138,7 +8138,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-manifest@npm:^5.13.0":
+"gatsby-plugin-manifest@npm:^5.14.0":
   version: 5.14.0
   resolution: "gatsby-plugin-manifest@npm:5.14.0"
   dependencies:
@@ -8160,7 +8160,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-mdx@npm:^5.13.0":
+"gatsby-plugin-mdx@npm:^5.14.0":
   version: 5.14.0
   resolution: "gatsby-plugin-mdx@npm:5.14.0"
   dependencies:
@@ -8214,7 +8214,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-sharp@npm:^5.13.0":
+"gatsby-plugin-sharp@npm:^5.14.0":
   version: 5.14.0
   resolution: "gatsby-plugin-sharp@npm:5.14.0"
   dependencies:
@@ -8287,7 +8287,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-remark-autolink-headers@npm:^6.10.0":
+"gatsby-remark-autolink-headers@npm:^6.14.0":
   version: 6.14.0
   resolution: "gatsby-remark-autolink-headers@npm:6.14.0"
   dependencies:
@@ -8304,7 +8304,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-remark-prismjs@npm:^7.10.0":
+"gatsby-remark-prismjs@npm:^7.14.0":
   version: 7.14.0
   resolution: "gatsby-remark-prismjs@npm:7.14.0"
   dependencies:
@@ -8318,7 +8318,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-remark-responsive-iframe@npm:^6.10.0":
+"gatsby-remark-responsive-iframe@npm:^6.14.0":
   version: 6.14.0
   resolution: "gatsby-remark-responsive-iframe@npm:6.14.0"
   dependencies:
@@ -8353,7 +8353,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-source-filesystem@npm:^5.13.0":
+"gatsby-source-filesystem@npm:^5.14.0":
   version: 5.14.0
   resolution: "gatsby-source-filesystem@npm:5.14.0"
   dependencies:
@@ -8372,7 +8372,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-transformer-json@npm:^5.13.1":
+"gatsby-transformer-json@npm:^5.14.0":
   version: 5.14.0
   resolution: "gatsby-transformer-json@npm:5.14.0"
   dependencies:
@@ -8384,7 +8384,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-transformer-remark@npm:^6.13.0":
+"gatsby-transformer-remark@npm:^6.14.0":
   version: 6.14.0
   resolution: "gatsby-transformer-remark@npm:6.14.0"
   dependencies:
@@ -8416,7 +8416,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-transformer-sharp@npm:^5.13.0":
+"gatsby-transformer-sharp@npm:^5.14.0":
   version: 5.14.0
   resolution: "gatsby-transformer-sharp@npm:5.14.0"
   dependencies:
@@ -10733,7 +10733,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"loglevel@npm:^1.8.1":
+"loglevel@npm:^1.9.2":
   version: 1.9.2
   resolution: "loglevel@npm:1.9.2"
   checksum: 10c0/1e317fa4648fe0b4a4cffef6de037340592cee8547b07d4ce97a487abe9153e704b98451100c799b032c72bb89c9366d71c9fb8192ada8703269263ae77acdc7
@@ -14240,7 +14240,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"remark-gfm@npm:^3.0.0":
+"remark-gfm@npm:^3.0.1":
   version: 3.0.1
   resolution: "remark-gfm@npm:3.0.1"
   dependencies:

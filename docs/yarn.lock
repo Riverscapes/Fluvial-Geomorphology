@@ -1678,17 +1678,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/jetbrains-mono@npm:^5.1.2":
-  version: 5.1.2
-  resolution: "@fontsource/jetbrains-mono@npm:5.1.2"
-  checksum: 10/0c2eed5ae053bf9d1d966b82875dc4b3c2356167ae60573905900d19e928c5af16a51a3aeb070eabeb4ff3fca14f66963ee07cd938f5288eddfeaa5ebfbad008
+"@fontsource/jetbrains-mono@npm:^5.2.5":
+  version: 5.2.5
+  resolution: "@fontsource/jetbrains-mono@npm:5.2.5"
+  checksum: 10/08211180d02270324bd7500a20b17548c45f49d4c68bb3d228a1f819876429522e9c7da695495d749f3a6095c1cb7d8586e45dcd61ca12a7062d6bba6302c285
   languageName: node
   linkType: hard
 
-"@fontsource/karla@npm:^5.1.1":
-  version: 5.1.1
-  resolution: "@fontsource/karla@npm:5.1.1"
-  checksum: 10/b3fd5eed8c23a374918824d37448aec1d296cf5f30fc36dcfbb2b2453620ecd9549e17a276de3e0587732be4b306ca5ba9f5016b96650de1f5b6cc27f180d27a
+"@fontsource/karla@npm:^5.2.5":
+  version: 5.2.5
+  resolution: "@fontsource/karla@npm:5.2.5"
+  checksum: 10/d00f19069e83853f73b5668af52ce809019a918269f3da46174ee657494eea726d7088c5109d71ef763802f616f16dbcf04e9bb4c6aa252ed19f86c7b9d495ea
   languageName: node
   linkType: hard
 
@@ -2304,7 +2304,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mui/icons-material@npm:^5.16.13":
+"@mui/icons-material@npm:^5.16.14":
   version: 5.16.14
   resolution: "@mui/icons-material@npm:5.16.14"
   dependencies:
@@ -2320,7 +2320,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mui/material@npm:^5.16.13":
+"@mui/material@npm:^5.16.14":
   version: 5.16.14
   resolution: "@mui/material@npm:5.16.14"
   dependencies:
@@ -3138,7 +3138,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@riverscapes/fluvial-geomorphology@workspace:."
   dependencies:
-    "@riverscapes/gatsby-theme": "npm:0.1.33"
+    "@riverscapes/gatsby-theme": "npm:^0.1.35"
     gatsby: "npm:^5.13.0"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
@@ -3146,22 +3146,21 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@riverscapes/gatsby-theme@npm:0.1.33":
-  version: 0.1.33
-  resolution: "@riverscapes/gatsby-theme@npm:0.1.33"
+"@riverscapes/gatsby-theme@npm:^0.1.35":
+  version: 0.1.35
+  resolution: "@riverscapes/gatsby-theme@npm:0.1.35"
   dependencies:
     "@emotion/react": "npm:^11.14.0"
     "@emotion/styled": "npm:^11.14.0"
-    "@fontsource/jetbrains-mono": "npm:^5.1.2"
-    "@fontsource/karla": "npm:^5.1.1"
+    "@fontsource/jetbrains-mono": "npm:^5.2.5"
+    "@fontsource/karla": "npm:^5.2.5"
     "@mdx-js/react": "npm:^2.3.0"
-    "@mui/icons-material": "npm:^5.16.13"
-    "@mui/material": "npm:^5.16.13"
+    "@mui/icons-material": "npm:^5.16.14"
+    "@mui/material": "npm:^5.16.14"
     "@mui/x-tree-view": "npm:^6.17.0"
     gatsby-plugin-image: "npm:^3.14.0"
     gatsby-plugin-manifest: "npm:^5.14.0"
     gatsby-plugin-mdx: "npm:^5.14.0"
-    gatsby-plugin-mdx-source-name: "npm:^1.0.1"
     gatsby-plugin-sharp: "npm:^5.14.0"
     gatsby-remark-autolink-headers: "npm:^6.14.0"
     gatsby-remark-prismjs: "npm:^7.14.0"
@@ -3177,7 +3176,7 @@ __metadata:
     gatsby: ^5.13.0
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 10/bb55ee4ebc0694b04d554582cc7f3219dff3e8e5884a5c2d02208d3247faa59f6e3a7e584ae5afbc80e5b494d620954d1b107d27759b7ce79ea83fa40b99a957
+  checksum: 10/1338429c870b18145d5cd2dcdec054795aee07ff019fb1d21d9330dc8d7764b5c3fc01a3bdc8ed67bd1a97ab89c2db52fb2dd40a11c6a13f9dff71a0920083c7
   languageName: node
   linkType: hard
 
@@ -8138,13 +8137,6 @@ __metadata:
   peerDependencies:
     gatsby: ^5.0.0-next
   checksum: 10/9663fdaca22377f9d384b416ce044c118c5be979c0faa7367aa2fd2c517c684fd39600156510714139edc25ade24b6fb5123ac515e7849d831006372b70cd8fb
-  languageName: node
-  linkType: hard
-
-"gatsby-plugin-mdx-source-name@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "gatsby-plugin-mdx-source-name@npm:1.0.1"
-  checksum: 10/2a392823662be9313490ec187212cdd06b31fae79400d07d8b079f5d58e5e05c427b9646e1e1e80180e46583ea89134193d93fc0a707f8cea299c4c314ba065f
   languageName: node
   linkType: hard
 

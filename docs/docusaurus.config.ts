@@ -85,7 +85,14 @@ const config: Config = {
         alt: 'FLUVIAL Logo',
         src: 'images/logo.png',
       },
-      items: [{ to: '/menu', label: 'MENU HERE', position: 'left' }],
+      items: [
+        // { to: '/menu', label: 'MENU HERE', position: 'left' },
+        {
+          href: 'https://github.com/Riverscapes/Fluvial-Geomorphology', // External GitHub link
+          label: 'GitHub',
+          position: 'right',
+        },
+      ],
     },
 
     prism: {

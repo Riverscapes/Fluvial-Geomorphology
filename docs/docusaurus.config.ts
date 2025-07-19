@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic'
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'NAME_HERE', // Site title displayed in the browser tab
-  tagline: 'NAME HERE', // Short description shown in meta tags
+  title: 'Fluvial-Geomorphology', // Site title displayed in the browser tab
+  tagline: 'Fluvial-Geomorphology', // Short description shown in meta tags
   favicon: 'icon.png', // Path to site favicon
 
   future: {
@@ -14,7 +14,7 @@ const config: Config = {
   },
 
   url: 'https://riverscapes.github.io', // The base URL of your site (no trailing slash)
-  baseUrl: '/Fluvial-Geomorphology', // The sub-path where your site is served (used in GitHub Pages)
+  baseUrl: '/', // The sub-path where your site is served (used in GitHub Pages)
 
   onBrokenLinks: 'throw', // Throw an error on broken links
   onBrokenMarkdownLinks: 'warn', // Warn instead of throwing for broken markdown links

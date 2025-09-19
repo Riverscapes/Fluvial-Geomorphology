@@ -94,6 +94,24 @@ const config: Config = {
         },
       ],
     },
+    footer: {
+      links: [
+        {
+          // Note that this NEEDS to match what's in the default template or we get another column
+          title: 'User Resources',
+          items: [
+            {
+              label: 'Search the Data Exchange',
+              href: 'https://data.riverscapes.net/',
+            },
+            {
+              label: 'Developers & Code Repository',
+              href: 'https://github.com/Riverscapes/Fluvial-Geomorphology',
+            },
+          ],
+        },
+      ],
+    },
 
     prism: {
       theme: prismThemes.github, // Code block theme for light mode

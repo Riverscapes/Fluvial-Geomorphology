@@ -14,7 +14,7 @@ const config: Config = {
   },
 
   url: 'https://riverscapes.github.io', // The base URL of your site (no trailing slash)
-  baseUrl: '/', // The sub-path where your site is served (used in GitHub Pages)
+  baseUrl: '/Fluvial-Geomorphology/', // The sub-path where your site is served (used in GitHub Pages)
 
   onBrokenLinks: 'throw', // Throw an error on broken links
   onBrokenMarkdownLinks: 'warn', // Warn instead of throwing for broken markdown links

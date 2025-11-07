@@ -1,0 +1,9 @@
+{
+  "label": "Course Topics",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "Course",
+    "description": "This class is organized into a series of modules."
+  }
+}

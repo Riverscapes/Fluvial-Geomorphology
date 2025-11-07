@@ -1,0 +1,9 @@
+{
+  "label": "Assignments",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "Assignments",
+    "description": "This section contains all assignments for the course."
+  }
+}

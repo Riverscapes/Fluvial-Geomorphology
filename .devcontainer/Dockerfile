@@ -5,7 +5,7 @@ FROM mcr.microsoft.com/devcontainers/typescript-node:0-18
 RUN apt-get update && apt-get install -y wget
 
 # Install Gatsby CLI and Yarn
-RUN npm install -g gatsby-cli yarn
+RUN npm install -g yarn
 # Let's get the latest version of Yarn
 RUN corepack enable
 RUN yarn set version berry
@@ -17,7 +17,3 @@ RUN wget https://raw.githubusercontent.com/Riverscapes/environment/master/nar-ys
 RUN wget https://raw.githubusercontent.com/Riverscapes/environment/master/.aliases -O ~/.aliases
 RUN wget https://raw.githubusercontent.com/Riverscapes/environment/master/.zshrc -O ~/.zshrc
 
-# set memory to 8Gb so that Gatsby has a chance
-ENV NODE_OPTIONS=--max-old-space-size=8192
-ENV GATSBY_CPU_COUNT=2
-ENV GATSBY_TELEMETRY_DISABLED=1

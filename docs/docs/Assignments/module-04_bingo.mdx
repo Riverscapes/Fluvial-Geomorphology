@@ -3,7 +3,8 @@ title: 	4. Hydrology Bingo
 description: Module 4 Assignment
 sidebar_position: 3
 ---
-# Module 4 Field Notebook: Hydrology Bingo
+
+# Module 4 Watershed Hydrology / Hydrology Bingo
 
 
 <ToolsWrapper
@@ -15,12 +16,36 @@ sidebar_position: 3
   cardsize='sm'
 />
 
+## Remote Hydrology assessment
 
-## The Assignment
+For this part of the assignment, you will analyze hydrology of a chosen reach of riverscape using QRiS, the USGS StreamStats application, and Riverscapes Network Models.
+
+### Instructions
+
+1. Create a new QRiS project and zoom to the riverscape that you are going to analyze (in the U.S.). 
+2. Use the StreamStats tool in QRiS to delineate the drainage basin of your reach. In the QRiS panel, navigate to Inputs -> Context -> Catchment Delineations. Right click and select 'Run USGS StreamStats'. Follow the directions to place a pour point for which a watershed will be delineated. The point placement must coincide spatially with the drainage network the API is using, so sometimes it takes multiple attempts, placing the point in slightly different locations to get it to work. In the dialog box, name the point and check the box 'Calculate Basin Characteristics', the click 'OK'.
+:::note
+Basin characteristics aren't available/don't work everywhere. If they do work, the information will be stored as json text in the 'basin_characteristics' field of the point you created.
+:::
+3. If the basin characteristics were caculated, the video below demonstrates how to view those and quickly calculate some yourself to compare values. If they weren't calculated you can still manually calculate a few (e.g., average elevation, slope, mean annual precip) using datasets from a [Riverscapes Context](https://tools.riverscapes.net/rscontext) project (see video below).
+
+<YouTubeEmbed videoId="Otoniiy1j8Y" />
+
+Write a brief summary of some of your basin characteristics (whether they were calculated automatically or you have to assess them from datasets in the Riverscapes Context project) and how they might contribute to the hydrology. What type of hydrology do you think your basin exhibits (e.g., flashy, steady, seasonal, snowmelt driven, rainfall driven, mixed, etc.) If catchment characteristic calculation worked, compare automatically calculated values to manually calculated values.
+
+4. Explore nearby stream gages. Navigate to Inputs -> Context -> Stream Gages in the QRiS panel. Right click on the node and select 'Explore Stream Gages'. This will open a separate panel. In the panel click 'Download Gages' to find any nearby stream gages. Select one gage, and set the date range to the last 10 years, then click 'Download Discharge'. The x-axis date range will likely be an illegible mess, but you will be able to see annual/seasonal flow patterns for the gage. Describe the hydrograph and what it demonstrates (you can export a csv of the data and produce a better looking figure to include on your page if you want). What is the highest recorded discharge? The lowest? What is the ratio between the two and what does that tell you about the hydrology?
+
+5. Look at predictions of low flow and typical flood magnitudes for your reach from the [Hydrologic Context](https://tools.riverscapes.net/hydro) network model. Right click on your project node in the QRiS panel and click 'Browse Data Exchange Projects'. Download a Hydrologic Context for the watershed your reach falls within. Open the project with the Riverscapes Viewer plugin and explore the outputs. Produce figures of low flow discharge, and typical flood discharge across the watershed. Look at the values for your reach specifically (attributes 'QLow' and 'Q2' in the attribute table). Do these values seems reasonable? 
+:::note
+depending on the geography you chose, values may be very accurate or completely off. Some areas have received QA/QC for the regressions used and the parameter values, while others are generated values from simple drainage area-based regressions based on sparse gage data and may be very innaccurate. What is your assessment of the reach you chose?
+:::
+
+
+## Bingo
 
 Get your field notebook page on your website setup and at least two processes observed. In setting it up, you need to commit to (and stick with the whole semester) one bingo card. The real assignment will run all semester long. You need to get "Bingo" by the end of the semester. The first three to declare Bingo (and not have their results contested) will get a prize and a Grand Prize will go to the first Full Card winner.
 
-## The Rules
+### The Rules
 In normal Bingo you all get different bingo cards. Here, you have four  bingo cards to choose from below. Your job is to get Bingo by one of the following winning patterns:  
 
 ![Bingo Win](/images/assignments/BingoWin.jpg)
@@ -34,11 +59,11 @@ Show on your web page, which bingo cell you are reporting. Keep a running list o
 
 Your observations must be your own (no re-using of other's YouTube videos.. though you can use them for inspiration). You need to observe these processes in the field.
 
-## The Bingo Cards
+### The Bingo Cards
 
 All have the same mix of processes... just in different orders. Choose one and stick to it.
 
-### Card 1
+#### Card 1
 
 | | | | | |
 |----|----|----|----|----|
@@ -48,7 +73,7 @@ All have the same mix of processes... just in different orders. Choose one and s
 | sublimation             | interception          | saturation excess overland flow   | evaporation          | bankfull flow     |
 | gully flow              | stemflow              | subsurface stormflow              | rill flow            | return flow       |
 
-### Card 2
+#### Card 2
 
 | | | | | |
 |----|----|----|----|----|
@@ -58,7 +83,7 @@ All have the same mix of processes... just in different orders. Choose one and s
 | drizzle (precipitation) | sheet flow (interill) | pipeflow                          | infiltration         | percolation     |
 | rain (precipitation)    | throughflow           | FREE                      | snow (precipitation) | base flow       |
 
-### Card 3
+#### Card 3
 
 | | | | | |
 |----|----|----|----|----|
@@ -68,7 +93,7 @@ All have the same mix of processes... just in different orders. Choose one and s
 | drizzle (precipitation) | sheet flow (interill) | pipeflow                          | infiltration         | percolation       |
 | rain (precipitation)    | base flow             | FREE                      | snow (precipitation) | condensation      |
 
-### Card 4
+#### Card 4
 
 | | | | | |
 |----|----|----|----|----|
@@ -79,8 +104,9 @@ All have the same mix of processes... just in different orders. Choose one and s
 | sublimation             | condensation          | saturation excess overland flow   | evaporation          | interception    |
 
 ------------
-## Bingo Pages
-### 2021 Class
+
+### Bingo Pages
+#### 2021 Class
 
 Thanks to everyone for [sharing their Bingo Pages](https://usu.instructure.com/courses/637781/discussion_topics/2233114):
 

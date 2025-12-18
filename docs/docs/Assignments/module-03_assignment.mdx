@@ -19,84 +19,90 @@ sidebar_position: 2
 
 ## The Assignment
 
-You will be performing a variety of morphometrics analyses of the Logan River Watershed.
+:::note
+I strongly encourage you to perform this assignment (and subsequent assignments) using [QGIS](https://qgis.org/), an open source, free desktop GIS. If you are more comfortable with ArcGIS Pro, it can also be accomplished using that software, however components of other labs/assignments will be completed in a QGIS plugin, (Riverscapes Studio)[https://qris.riverscapes.net/] that is not available in ArcGIS Pro.
+:::
 
-On your website, please make a web-page for [module 3](/Course_Topics/module-03) (this is what you'll turn in for Canvas. For the Logan River Watershed (a 10 digit HUC - [1601020303](https://data.riverscapes.net/p/d033fd87-b155-4a72-a272-29fa701fff78/). Your page should have a heading for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well, including how you calculated each of your metrics/values. Make sure all questions are answered.
+An important first step of riverscape assessment and reading riverscapes is to understand the catchment-scale controls on river geomorphology. In other words, setting your riverscape within the context of its watershed and understanding how watershed characteristics influence river form and function, as well as how that varies across different landscapes. The purpose of this assignment is to introduce you to concepts of catchment-scale assessments (e.g. setting and morphometrics) which will allow you to write site descriptions for any riverscape you may work in the future.
+
+You will be assessing watershed context and calculating a variety of morphometrics for the Logan River Watershed as well as a watershed of your choosing. To do so you will leverage [Riverscapes Context](https://tools.riverscapes.net/rscontext) Riverscapes Projects (see Resources below), which provides a quick and easy way to get the watershed boundary, DEM, and drainage network lines, PRISM precipitation rasters, etc. in addition to other contextual GIS datasets. You will interact with these projects using the [Riverscapes Viewer](https://viewer.riverscapes.net) for QGIS (or ArcPro).
+
+On your website, please make a web-page for [module 3](/Course_Topics/module-03) (this is what you'll turn in for Canvas for the Logan River Watershed (a 10 digit HUC - [1601020303](https://data.riverscapes.net/p/d3091282-1525-47cb-b73d-e32f461cc3fe/)) and another watershed that you select). Your page should have sections for the Logan River and your chosen waterhed, with headings for each of the assignment tasks listed below. I describe the bare minimum you need to include in each task on your page, but you may want to provide additional context. Briefly explain your methods as well, including how you calculated each of your metrics/values. Make sure all questions are answered. After calculating morphometrics for both watersheds, please include a brief discussion comparing and contrasting the two watersheds based on your calculated metrics.
+
+------
+
+:::info
+The instructions below are for the Logan River Watershed. You will repeat the same steps for a watershed of your choosing. There a few tasks only applicable to the Logan River Watershed (noted below). Choose a watershed that is of interest to you, or one that you may want to work in the future. It can be anywhere in the conterminous US, but make sure you can find the necessary data to complete the assignment.
+:::
 
 ## Assignment Tasks
 
-### 1 - Map of Logan River Watershed 
+### 1 - Map(s) of Logan River Watershed 
+
 1. Make a Location Map (where in Utah is the Logan River Watershed; can skip if you make an interactive embedded map in step 2).
-2. Make a map of the Logan River Watershed
+2. Describe the  following for your watershed (with any useful accompanying figures or maps):
+  - What is the climate of the watershed (e.g., mean annual precipitation and temperature)?
+  - What is the geologic setting of the watershed?
+  - What are the dominant vegetation communities and their distribution in the watershed (e.g., forests, grasslands, rangelands, crops, developed, etc.)?
+  - What is the physiographic setting(s) of the watershed (e.g., US [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions))? A map of landscape units (e.g., level III/IV Ecoregions) and how they intersect the drainage network would be helpful.
 
 ### 2 - Longitudinal Profile
-1. Produce a **longitudinal profile** graph (distance (meters) vs. elevation (meters)  by pulling a elevation profile of the Logan River from Franklin basin (around  [42.0353,-111.599127](https://goo.gl/maps/qHmhTkBy8H4w7BdK7) down to mouth (around [41.741216, -111.938460](https://goo.gl/maps/vKCdUaMe1im98wTL8)). 
+
+1. Produce a **longitudinal profile** graph (distance (meters) vs. elevation (meters)) by pulling a elevation profile of the Logan River from Franklin Basin (around  [42.0353,-111.599127](https://goo.gl/maps/qHmhTkBy8H4w7BdK7)) down to mouth (around [41.741216, -111.938460](https://goo.gl/maps/vKCdUaMe1im98wTL8)). You will repeat this for the mainstem river of your chosen watershed.
 2. What is the **base-level control** of Logan River today (the feature and its elevation)?
-3. What was the **base-level control** of the Logan River about 18,000 years ago (feature and elevation)? 
+3. What was the **base-level control** of the Logan River about 18,000 years ago (feature and elevation)? **Logan River Watershed ONLY**
 4. What is the **mainstem length** of the  Logan River in kilometers?
 5. What is the **concavity** (show calculation)?
 6. Label any **knickpoints** (if present) and pose a working hypothesis about the controls?
 
 ### 3 - Catchment Morphometrics
 
-For the Logan River Watershed:
+For the watershed:
 1. What is its **catchment length** in meters? 
 2. What is its **catchment area** in square meters and in square kilometers?
 3. What is the the **catchment perimeter length** in meters and kilometers?
 4. Calculate the **circularity ratio**.
-5. Calculate the **elongation ratio**.
-6. Calculate the **form factor** of the Logan River Watershed.
-7. What is the **catchment relief** of the Logan River Watershed?
-8.  What is the **relief ratio** of the Logan River Watershed? 
-9.  What is the  **drainage density** of the Logan River perennial drainage network?
-10.  What is the **drainage pattern** of the Logan River drainage network?
+5. Calculate the **form factor** of the watershed.
+6. What is the **catchment relief** of the watershed?
+7. What is the **relief ratio** of the watershed? 
+8. What is the  **drainage density** of the perennial drainage network?
+9. What is the **drainage pattern** of the drainage network?
 
 ### 4 - Stream Order
-For the perennial drainage network of the Logan River:
-1. What is the **stream order** of the Logan River at its mouth?
-2. What is the **stream order** of Temple Fork at its mouth?
-3. What is the **stream order** of Beaver Creek?
+
+For the perennial drainage network of the watershed:
+1. What is the **stream order** at mainstem river's mouth?
+2. What is the **stream order** of Temple Fork at its mouth? **Logan River Watershed ONLY**
+3. What is the **stream order** of Beaver Creek? **Logan River Watershed ONLY**
 4. Does the Logan River appear to obey the **Hortonian laws of stream network composition**?
 
-----------
-
-## Tips
-You can get carried away with this assignment. I wouldn't recommend starting there. What's the minimum reasonable method you could use to make the above measurements and calculations? Some of you are experienced GIS users, others are not. So the answer will be different for each of you.
-- Yes, learning how to do all this in GIS is helpful. However, there are a ton of tricks to get everything in the right units and make sure you are getting exactly what you want. The precision is nice, but not necessary here. If you need a [refresher on GIS, see here](https://mgimond.github.io/Spatial/introGIS). 
-- You can do this entire assignment from the [USGS National Map Viewer](https://viewer.nationalmap.gov/advanced-viewer/) or a paper or PDF [Topo Quad](https://www.sciencebase.gov/catalog/item/5e3bc574e4b0edb47bdf09b6)
-- You can do some of this assignment from Google Earth
+:::tip
+If you are inexperienced with GIS, there are great resources online to help you get started. See the Resources section below for some helpful videos and links to get you started with Riverscapes Context and Riverscapes Viewer in QGIS. If you need additional help, please attend office hours or schedule a meeting with the instructor.
+:::
 
 ------------------------
+
 ## Resources
 
 ### Riverscapes Context 
 
-A [Riverscapes Context Project for HUC 1601020303 (Logan River)](https://data.riverscapes.net/p/d033fd87-b155-4a72-a272-29fa701fff78/) from the [Riverscapes Consortium](http://riverscapes.net). - *Riverscapes Project viewable in  QGIS or ArcPro with [Viewer](http://viewer.riverscapes.net)*. This project has the watershed boundary, DEM and drainage network lines (you can also go find them on other USGS and USDA websites), as well as a ton of additional context. 
+A [Riverscapes Context Project for HUC 1601020303 (Logan River)](https://data.riverscapes.net/p/d3091282-1525-47cb-b73d-e32f461cc3fe/) from the [Riverscapes Consortium](http://riverscapes.net). - *Riverscapes Project viewable in  QGIS or ArcPro with [Viewer](http://viewer.riverscapes.net)*. This project has the watershed boundary, DEM and drainage network lines (you can also go find them on other USGS and USDA websites), as well as a ton of additional context. 
 
-If you are interested in other Riverscapes Projects for the Logan River, see [here](https://data.riverscapes.net/s?type=Project&boundsId=778facfe-ac34-4ff7-b70c-096d25267162&geo=-111.70878756791353%2C41.88449839624283%2C9.287251608945853).
+If you are interested in other Riverscapes Projects for the Logan River, see [here](https://data.riverscapes.net/s?type=Project&meta=HUC%3A1601020303&view=map&geo=-111.70872856678324%2C41.88436920285639%2C9.052997843165823).
 
 <ToolsWrapper
   cards={[{
-    title: 'Riverscapes Context for HUC 1601020303 for WATS 5150',
-    toolUrl: 'https://data.riverscapes.net/rv/d033fd87-b155-4a72-a272-29fa701fff78',
+    title: 'Riverscapes Context for HUC 1601020303 for WATS 6900/6155',
+    toolUrl: 'https://data.riverscapes.net/rv/d3091282-1525-47cb-b73d-e32f461cc3fe',
     description: 'View in Riverscapes Web Viewer',
   }]}
   cardsize='sm'
 />
 
-### Shapefiles Prepped
-There are three files in this [LoganShapefiles+KMZ.zip ](https://usu.instructure.com/files/79946836/download?download_frd=1) <i class="fa fa-file-archive-o" aria-hidden="true"></i> file:
-- `LoganRiver_Only.shp` - From the NHD in the context file, this has been clipped to just the mainstem for which you need to extract a profile.
-- `Logan_PerrenialNetwork.shp`-  From the NHD in the context file, this has been clipped to just the perrinal portion of the network you'll need for drainage density.
-- `LoganWatershed_1601020303.shp` -  From the HUC 8 Watershed, just the HUC 10 for the Logan.
 
-### Google Earth Files
-If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/download-thank-you/?usagestats=1), here are the three prepped shapefiles from above in one KMZ:
-- [Logan River Watershed Prepped.kmz](https://usu.instructure.com/files/79946820/download?download_frd=1)
+### How to:
 
-## How to:
-
-### Open Riverscapes Project in GIS with Riverscapes Viewer
+#### Open Riverscapes Project in GIS with Riverscapes Viewer
 
 
 <YouTubeEmbed videoId="QLboT-YJw-I" title="Open Riverscapes Project in GIS with Viewer" />
@@ -112,17 +118,38 @@ If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/
   cardsize='sm'
 />
 
-### Open KMZs in Google Earth Pro and view Profile
-
-<YouTubeEmbed videoId="Uhbob-qacso" title="Open KMZs in Google Earth Pro and view Profile" />
-⏱️ < 4 minutes
-
-### Open Riverscapes Project in QGIS with Riverscapes Viewer
-        
+#### Open Riverscapes Project in QGIS with Riverscapes Viewer
 
 <YouTubeEmbed videoId="AlIohcMYB98" title="Open Riverscapes Project in QGIS with Viewer" />
 ⏱️ 3 minutes
-### Create a profile in QGIS
+
+#### Create a profile in QGIS
 
 <YouTubeEmbed videoId="Vduqk7KAJQY" title="Create a profile in QGIS" />
 ⏱️ 3 minutes
+
+------
+
+### Resources from Previous Versions of this Course
+
+#### Tips
+You can get carried away with this assignment. I wouldn't recommend starting there. What's the minimum reasonable method you could use to make the above measurements and calculations? Some of you are experienced GIS users, others are not. So the answer will be different for each of you.
+- Yes, learning how to do all this in GIS is helpful. However, there are a ton of tricks to get everything in the right units and make sure you are getting exactly what you want. The precision is nice, but not necessary here. If you need a [refresher on GIS, see here](https://mgimond.github.io/Spatial/introGIS). 
+- You can do this entire assignment from the [USGS National Map Viewer](https://viewer.nationalmap.gov/advanced-viewer/) or a paper or PDF [Topo Quad](https://www.sciencebase.gov/catalog/item/5e3bc574e4b0edb47bdf09b6)
+- You can do some of this assignment from Google Earth
+
+#### Shapefiles Prepped
+There are three files in this [LoganShapefiles+KMZ.zip ](https://usu.instructure.com/files/79946836/download?download_frd=1) <i class="fa fa-file-archive-o" aria-hidden="true"></i> file:
+- `LoganRiver_Only.shp` - From the NHD in the context file, this has been clipped to just the mainstem for which you need to extract a profile.
+- `Logan_PerrenialNetwork.shp`-  From the NHD in the context file, this has been clipped to just the perrinal portion of the network you'll need for drainage density.
+- `LoganWatershed_1601020303.shp` -  From the HUC 8 Watershed, just the HUC 10 for the Logan.
+
+#### Google Earth Files
+If you want to work in [Google Earth Pro](https://www.google.com/earth/versions/download-thank-you/?usagestats=1), here are the three prepped shapefiles from above in one KMZ:
+- [Logan River Watershed Prepped.kmz](https://usu.instructure.com/files/79946820/download?download_frd=1)
+
+
+#### Open KMZs in Google Earth Pro and view Profile
+
+<YouTubeEmbed videoId="Uhbob-qacso" title="Open KMZs in Google Earth Pro and view Profile" />
+⏱️ < 4 minutes

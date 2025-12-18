@@ -9,6 +9,7 @@ sidebar_position: 8
 <ToolsWrapper
   cards={[{
     title: 'See Corresponding Learning Module',
+     logoUrl: 'https://cdn.riverscapes.net/icons/miscellaneous/school/school.svg',
     toolUrl: '/Course_Topics/module-9',
     description: 'Go to the learning module for this topic.'
   }]}
@@ -16,11 +17,13 @@ sidebar_position: 8
 
 ## Geomorphic Mapping of Floodplains
 
-For this assignment you will select any reach of riverscape you want (that has floodplains) use the [Geomorphic Mapping Protocol](https://qris.riverscapes.net/technical-reference/protocols/protocol-library/dce-protocols/tier-1-geounit-protocol) in QRIS to map floodplain features and calculate metrics to characterize your riverscape in terms of these floodplain features.
+For this assignment you will select any reach of riverscape you want in the lower 48 (that has floodplains) use the [Geomorphic Mapping Protocol](https://qris.riverscapes.net/technical-reference/protocols/protocol-library/dce-protocols/tier-1-geounit-protocol) in QRIS to map floodplain features and calculate metrics to characterize your riverscape in terms of these floodplain features.
+
+
 
 ### Instructions
 
-1. Follow the instructions in the [documentation](https://qris.riverscapes.net/technical-reference/protocols/protocol-library/dce-protocols/tier-1-geounit-protocol) of the Geomorphic Mapping Protocol in QRiS to complete your assignment. For this assignment focus on mapping the valley bottom units (channel and floodplain, separated into active and inactive floodplain), but you should also digitize other non-valley **bottom** valley features (terraces, fans) if they are present. First, delineate the valley bottom extent. Then separate out the channel and floodplain units within the valley bottom. Finally break the floodplain into active and inactive units.
+1. Follow the instructions in the [tuotrial documentation on mapping valley bottom geomorphic units](https://qris.riverscapes.net/tutorials/trainings-workshops/blm-tnc-workshops/qris_workshop_2/#map-geomorphic-units) using the [Geomorphic Mapping Protocol](https://qris.riverscapes.net/technical-reference/protocols/protocol-library/dce-protocols/tier-1-geounit-protocol) in QRiS to complete your assignment. For this assignment focus on mapping the valley bottom units (channel and floodplain, separated into active and inactive floodplain), but you should also digitize other non-valley **bottom** valley features (terraces, fans) if they are present. First, map the fans and/or terraces to help delineate the valley bottom extent and differentiate it from the hillslopes and valley extent. Then separate out the channel and floodplain units within the valley bottom. Finally break the floodplain into active and inactive units.
 
 - Create a new project in QRiS. Zoom to the riverscape that you are going to analyze. 
 - Right click on the 'Riverscapes' node under 'Inputs' in the QRiS panel and click 'Create New Manually Digitized Valley Bottom', and then digitize your riverscapes valley bottom.
@@ -28,13 +31,23 @@ For this assignment you will select any reach of riverscape you want (that has f
 - Add the Geomorphic Units layer to your map from the QRiS panel and digitize the geomorphic units.
 
 :::tip
-You can delineate units based on the base map alone, or you can add other evidence layers like a hillshade or height above nearest drainage (HAND) raster. To add these, you can right click on your project node in the QRiS panel and click 'Browse Data Exchange Projects'. This will take you to your project location in the data exchange where you can download projects (e.g., Riverscapes Context, TauDEM, VBET). You can add layers from these projects to your map using the Riverscapes Viewer plugin and use them as evidence.
+You can delineate units based on an aerial base map alone, or you can add other evidence layers like a hillshade (e.g. from Riverscapes Context) or height above nearest drainage (HAND) raster. To add these, you can right click on your project node in the QRiS panel and click 'Browse Data Exchange Projects'. This will take you to your project location in the data exchange where you can download projects (e.g., Riverscapes Context, TauDEM, VBET). You can add layers from these projects to your map using the Riverscapes Viewer plugin and use them as evidence. Note if you choose a riverscape with [LiDAR available](https://portal.opentopography.org/datasets), you can use that higher resolution hillshade and DEM to inform your mapping.
 :::
 
-2. Calculate the protocol metrics (active channel ratio, active floodplain ratio, inactive floodplain ratio) based on your manually digitized layers, and record this information on your website.
+2. Perform an [Analysis](https://qris.riverscapes.net/software-help/analyses/) to calculate some floodplain metrics (active channel ratio, active floodplain ratio, inactive floodplain ratio) based on your manually digitized layers, and report this information on your website.
 
-- Right click on the 'Analyses' Node in the QRiS panel and choose 'Create New Analysis'. 
+- Right click on the `Analyses` Node in the QRiS panel and choose `Create New Analysis`. 
 - Name your analysis, and select the valley bottom you digitized as the analysis mask. Click 'OK'. 
 - In the analysis panel that opens, make sure that the correct DCE is selected then click 'Calculate'. Each of the three metrics and its calculated value should show up in the table. Record these values on your web page.
 
-3. Now we will assess an automated generation of valley bottom outputs based on [10 m Digital Elevation Models](https://www.usgs.gov/publications/national-elevation-dataset) and the [National Hydrography Dataset](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution) stream layer. from the VBET tool. Get a VBET project that corresponds to your project area from the Data Exchange (the easiest way is to right click on your project node in the QRiS panel and click 'Browse Data Exchange Projects'). Open the VBET project with the Riverscapes Viewer Plugin. One of the combinations of layers under 'Outputs' in the project tree is 'Categorized VBET (3-class)'. If it wasn't already added to the map as a default view, bring in the three layers and compare them to what you manually digitized. Produce a figure comparing the two and write a paragraph comparing how they are similar, how they differ, and what the causes may be.
+
+
+3. Now we will assess an automated generation of valley bottom outputs based on [10 m Digital Elevation Models](https://www.usgs.gov/publications/national-elevation-dataset) and the [National Hydrography Dataset](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution) stream layer used to produce the freely available VBET outputs across CONUS (note that VBET can be run with higher resolution inputs). Get a VBET project that corresponds to your project area from the Data Exchange (the easiest way is to right click on your project node in the QRiS panel and click `Browse Data Exchange Projects`). Open the VBET project with the Riverscapes Viewer Plugin. One of the combinations of layers under 'Outputs' in the project tree is 'Categorized VBET (3-class)'. If it wasn't already added to the map as a default view, bring in the three layers and compare them to what you manually digitized. Produce a figure comparing the two and write a paragraph comparing how they are similar, how they differ, and what the causes may be.
+
+:::tip
+This [tutorial](https://qris.riverscapes.net/tutorials/trainings-workshops/usu-ltpbr-level3/cewa6626#f-map-valley-bottom-and-compare-to-vbet) covers this comparison of manually digitized and VBET generated valley bottoms in more detail.
+:::
+
+4. Close your QRiS Project using the QRiS menu. Then open it using Riverscape Viewer (**NOT QRiS**). In the Riverscapes Viewer panel, right click on your project node and select `[Upload Project to Data Exchange](https://viewer.riverscapes.net/tutorials/riverscapes-project-data-exchange/)`. This will allow you to upload it to the Riverscapes Data Exchange where you can share it with others. Copy the link to your project on the Data Exchange and include it on your web page for this assignment so that others can explore your work.
+
+5. On your web page for this assignment, include sections for each of the steps above with figures, maps, and discussion of your results and interpretations. You do not need to write a thesis, but make sure a reader can follow your work and understand your interpretations.

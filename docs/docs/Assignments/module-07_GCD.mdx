@@ -27,29 +27,24 @@ The goals of this assignment is to i) give you experience working with topograph
 
 ----------------
 ## Prerequisites
-Students/Participants are expected to have some previous GIS experience, familiarity with ArcGIS (don’t need to be an expert), and some understanding of topographic data and digital elevation models.
+Students/Participants are expected to have some previous GIS experience and some understanding of topographic data and digital elevation models.
 
-> **Note:** If it's been a while since you've used ArcGIS and you want a refresher, you may find these [Getting Organized and Oriented](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented) pages helpful, or you may find [Task 1](http://gis.joewheaton.org/assignments/labs/lab01/task-1---build-map) of this [Intro to GIS Lab Exercise](http://gis.joewheaton.org/assignments/labs/lab01) helpful (don't bother with the making a website portion; Task 2 and 3).
->
-> **Computer & Software Requirements:**
->
-> - All students/participants will need access to a computer with ArcGIS 10.6 or later (QCNR and Engineering Computer labs have this)
-> - If you use your own computer, it will need a Windows OS (Windows 10 recommended)
->   - For ArcGIS to run efficiently in Windows, 8 GB or more of RAM is recommended
->   - A mouse is strongly encouraged over a trackpad
-> - Required Software:
->   - [GCD Add-In](http://gcd.riverscapes.xyz/Download/) ([Requires ArcGIS 10.6 or later](http://gcd.riverscapes.xyz/Download/about))
->     - **NOTE:** If you are working in a computer lab, you CAN [install this Add-In](http://gcd.riverscapes.xyz/Download/install), but may need to reinstall it each time you come to the lab.
-> - If you need a [Education Edition](http://esri.com/educationedition/) license for a new or existing installation of ArcGIS, email Joe.
+:::info
+There is a [GCD Add-In](https://gcd.riverscapes.net/Download/) for ESRI ArcMap, however, because ArcMap is deprecated, we will do this exercise using a [standalone version](https://gcd.riverscapes.net/Download/) of the GCD software. The standalone version lacks the built in map display provided by the add-in, however, it has all the same analysis capabilities, and the outputs can be visualized in QGIS or ArcPro.
+:::
 
 -----------
 ## The Assignment
 
-### Part 1 - Get Ready For Monday - Build Project & Do Some Budget Segregation
+### Part 1 - Build Project & Do Some Budget Segregation
+
+:::note
+The videos below are a bit dated and demonstrate the ArcMap Add-In version of GCD. However, the workflows are the same in the standalone GCD software.
+:::
 
 For the first part of this assignment, I want you to do:
-- 1.A Download the [Feshie Data](http://gcd.riverscapes.xyz/Tutorials/example-data-sets) (also below)
-- 1. B Create a [GCD Project](http://gcd.riverscapes.xyz/Concepts/projects) (you will bring this to class on Monday and turn this in for Part 2) with at least:
+- 1.A Download the [Feshie Data](http://gcd.riverscapes.net/Tutorials/example-data-sets) (also below)
+- 1. B Create a [GCD Project](http://gcd.riverscapes.net/Concepts/projects) (you will bring this to class on Monday and turn this in for Part 2) with at least:
   -  1.B.1: Three of the Five years loaded as surveys (see videos for how to do error modelling)
   - 1.B.2: Two change detections (threshold @ 80% probability) for two of the epochs 
   - 1.B.3: A budget segregation with at least two examples each of the following mechanisms of change identified:
@@ -58,9 +53,9 @@ For the first part of this assignment, I want you to do:
     - Channel Bed Rising (aggradation)
     - Bar Development 
 
-Come to class with your GCD project handy to show, and your list of questions and/or problems you encountered. You will work on small groups and share your projects, and explain what you found. 
+As you work through this, post any questions and/or problems you encounter, or any potentially interesting findings to a class [Discussion](https://usu.instructure.com/courses/805010/discussion_topics).
 
-### Concepts to Illustrate & Explain
+#### Concepts to Illustrate & Explain
 
 Building your GCD Project. In this tutorial, I show you how to get through 1.B.1 and 1.B.2 above.
 <YouTubeEmbed YouTubeEmbed videoId="QXEC1CGKA_8" />
@@ -70,8 +65,8 @@ Doing Budget Segregation. In this tutorial, I show you how to get through 1.B.3 
 
 
 For more information on budget segregation, see the following GCD Tutorials:
-- [Basic Budget Segregation](http://gcd.riverscapes.xyz/Tutorials/GeomorphicInterpretation/simple-budget-segregation)
-- [Morphodynamic Signatures from Budget Segregation](http://gcd.riverscapes.xyz/Tutorials/GeomorphicInterpretation/morphodynamic-signatures-from-budget-segeregation)
+- [Basic Budget Segregation](http://gcd.riverscapes.net/Tutorials/GeomorphicInterpretation/simple-budget-segregation)
+- [Morphodynamic Signatures from Budget Segregation](http://gcd.riverscapes.net/Tutorials/GeomorphicInterpretation/morphodynamic-signatures-from-budget-segeregation)
 
 
 ### Part 2 - Turn in a Web Page
@@ -88,15 +83,13 @@ If you opt not to use video, please instead describe with text what you interpre
 
 
 -------
-# Resources
-
-## Dataset
+## Resources
 
 <ToolsWrapper
   sectionTitle="Dataset"
   cards={[{
     title: 'River Feshie, Scotland, UK',
-    imageUrl: 'http://gcd.riverscapes.xyz/assets/images/datasets/feshie_200h.png',
+    imageUrl: 'https://cdn.riverscapes.net/icons/products/gcd/gcd.svg',
     description: 'A 700 m long braided reach. Dataset.',
     toolUrl: 'https://doi.org/10.5281/zenodo.7261352'
   }]}
@@ -111,19 +104,17 @@ Dataset includes:
 [![DOI:10.5281/zenodo.7261352](https://zenodo.org/badge/DOI/10.5281/zenodo.7261352.svg)](https://doi.org/10.5281/zenodo.7261352)
 
 
-## Relevant Paper
+### Relevant Paper
 The work we will do on "budget segregation" is based on Wheaton et al. (2013):
 - Wheaton JM, Brasington J, Darby SE, Sear DA, Vericat D‡., and Kasprak A. 2013. [Morphodynamic signatures of braiding mechanisms as expressed through change in sediment storage in a gravel-bed river](http://doi.org/10.1002/jgrf.20060). Journal of Geophysical Research - Earth Surface. DOI: [10.1002/jgrf.20060](http://doi.org/10.1002/jgrf.20060).
 
-## Album
+### Album
 Here is a [Google Album](https://photos.app.goo.gl/QWfkPqTH5PvBVdk38) of the Feshie to get a better feel for the site. 
 
-## More Background on GCD
+### More Background on GCD
 
-
-
-We have taught numerous [courses and workshops on GCD](http://gcd.riverscapes.xyz/Workshops/). The following resources might be helpful if you want a deeper treatment of the methods and topics:
-- [Lecture Slides from Course](http://gcd.riverscapes.xyz/Workshops/2019/wats5150/topics)
-- [Tutorials](http://gcd.riverscapes.xyz/Tutorials/)
-- [GCD Software Help Documentation](http://gcd.riverscapes.xyz/Help/)
-- [GCD Support](http://gcd.riverscapes.xyz/support)
+We have taught numerous [courses and workshops on GCD](http://gcd.riverscapes.net/Workshops/). The following resources might be helpful if you want a deeper treatment of the methods and topics:
+- [Lecture Slides from Course](http://gcd.riverscapes.net/Workshops/2019/wats5150/topics)
+- [Tutorials](http://gcd.riverscapes.net/Tutorials/)
+- [GCD Software Help Documentation](http://gcd.riverscapes.net/Help/)
+- [GCD Support](http://gcd.riverscapes.net/support)

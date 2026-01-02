@@ -1,11 +1,11 @@
 ---
-title: 	8. Instream Geomorphic Units from GUT
+title: 	8. Instream Geomorphic Units
 description: Module 8 Assignment
 sidebar_position: 7
 ---
 
 
-# Module 8 - Instream Geomorphic Units from GUT
+# Module 8 - Instream Geomorphic Units
 
 <ToolsWrapper
   cards={[{
@@ -16,6 +16,58 @@ sidebar_position: 7
   }]}
 />
 
+## Purpose
+
+The purpose of this assignment is to give you experience delineating in-stream geomorphic units, assessing how they change through time, and interpreting what those changes mean in terms of geomorphic processes and behavior. You will do this by performing data capture events in a QRiS project where you manually digitize geomorphic units from high resolution imagery. Because there are limitations to doing this type of assessment remotely using geospatial data, you will also visit a nearby riverscape and produce a field-based geomorphic unit map (sketch).
+
+## Assignment
+
+### 1. Mapping Geomorphic Units from Imagery in QRiS
+
+1. Download this [Demo QRiS Project](https://data.riverscapes.net/p/1c87911a-0c1b-4799-ba95-8275aec51cc9/) for a section of Wychus Creek in Sisters, OR. The project contains several different years of high resolution aerial imagery produced from drone flights, which is why the project is quite large (7.8 GB) and may take a few minutes to download and unzip. As you will see, even using high resolution imagery, it can be difficult to confidently identify geomorphic units. The project contains imagery for the years 2019, 2020, 2022, 2023, 2024, and 2025. Several of these years have associated data capture events (some of which include geomorphic mapping). You will use the Aug 2024 imagery to practice mapping geomorphic units, then compare it with mapping from previous DCEs. 
+
+2. In the QRiS panel, bring the 2025 imagery into the map view `Willow Springs 0.3.6 > Inputs > Surfaces > August 2024 Ortho asbuilt Referenced`. Right click on `Data Capture Events` in the panel and select `Add New Data Capture Event`. Name it 'Geomorphic Unit Mapping Aug 2024'. For layers, just choose 'Geomorphic Units Extents' under the 'LTPBR Protocol' group. Fill in the basic properties in the `Basic Properties` tab and then associated the DCE with the correct surface in the `Surfaces` tab (you can also add a description if you want), then click `OK` to create the DCE.
+
+3. Bring the Geomorphic Units Extents layer from your DCE into the map and start digitizing geomorphic units you can identify from the imagery. Documentation on digitizing in QGIS can be found [here](https://qris.riverscapes.net/tutorials/getting-started/digitizing). The video below walks through the process of creating the DCE and digitizing geomorphic units. Write a brief summary on your web page of the geomorphic unit mapping you did, including what types of units you were able to identify, any challenges you had in identifying units, or any limitations you noticed in this mapping protocol (include figure of your mapping).
+
+<YouTubeEmbed videoId="JJEpVfi8fMc" />
+
+-----
+
+4. Create a new analysis in QRiS to calculate metrics related to the geomorphic mapping (see video below). The relevant metrics here include Mid Channel Bar Density, Pool Density, Riffle Density, Mid Channel Bar Area, Mid Channel Bar Count, Pool Area, Pool Count, Riffle Area, Riffle Count.
+Write a brief summary on your web page of how the geomorphic unit metrics you calculated were similar or different across the different data capture events, including potential reasons for theses similarities or differences.
+
+<YouTubeEmbed videoId="i-YjS2pDQjM" />
+
+-----
+
+
+### 2. Field Geomorphic Unit Mapping
+
+Visit a nearby riverscape of your choosing. Create a sketch of a reach of the stream (with a length of ~20 channel widths) and map the geomorphic units you observe in the field. Take photos to document the different geomorphic units you observe. Write a brief summary on your web page of the field mapping you did, including what types of units you were able to identify, any challenges you had in identifying units (include figure of your mapping and some photos of the units you observed). Don't worry about your sketch being exactly to scale or perfectly proportional, the idea is just to get experience mapping in the field and get a feel for the drawbacks and advantages between field mapping and remote mapping.
+
+## Resources
+
+<ToolsWrapper
+  cards={[{
+    title: 'Willow Springs QRiS Project',
+    logoUrl: 'https://cdn.riverscapes.net/icons/products/qris/qris.svg',
+    toolUrl: 'https://data.riverscapes.net/p/1c87911a-0c1b-4799-ba95-8275aec51cc9/',
+    description: 'Download the QRiS project for this assignment.'
+  }]}
+  sectionTitle="Assignment Dataset"
+/>
+
+#### Fluvial Taxonomy Paper
+
+![Wheaton 2015 Cover](/images/covers/Wheaton2015.png)
+- 📄 Wheaton J, Fryirs K, Brierley GJ, Bangen SG, Bouwes N, O’Brien G. 2015. [Geomorphic Mapping and Taxonomy of Fluvial Landforms](https://s3-us-west-2.amazonaws.com/etalweb.joewheaton.org/Courses/Ecohydraulic/2020/Reading/Wheaton_FluvialTaxonomy.pdf). Geomorphology 248 : 273–295. DOI: [10.1016/j.geomorph.2015.07.010](https://dx.doi.org/10.1016/j.geomorph.2015.07.010)
+
+------------------------------------
+
+:::info
+A former version of this assignment used the Geomorphic Unit Toolkit (GUT) model. Some of the functionality between GUT and the Riverscapes Viewers needs updated to function correctly. However, the data is still available, so feel free to go through this assignment below if you want to dive in deeper to this subject.
+:::
 
 ## The Set-Up
 We will take you to the basalt canyons of the Asotin Watershed in southeast Washington. The [Asotin is the focus of an Intensively Monitored Watershed](https://wa-rco.maps.arcgis.com/apps/Cascade/index?appid=0ff5118943a843c79571cc2d7015f92e) and experimental restoration to recover Steelhead populations where we have over eight years of repeat topographic surveys (n=112 surveys) across 18 different sites. {/* Scroll through Story Map  below for a brief overview of the IMW: */}

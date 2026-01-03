@@ -5,9 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic'
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Fluvial-Geomorphology', // Site title displayed in the browser tab
+  title: 'Fluvial-Geomorphology - Reading Riverscapes', // Site title displayed in the browser tab
   tagline: 'Fluvial-Geomorphology', // Short description shown in meta tags
-  favicon: 'icon.png', // Path to site favicon
+  favicon: '/images/favicons/favicon.ico', // Path to site favicon
 
   future: {
     v4: true, // Enables compatibility with upcoming Docusaurus v4 features
@@ -80,10 +80,10 @@ const config: Config = {
     },
 
     navbar: {
-      title: 'Fluvial Geomorphology', // Navbar title
+      title: 'Fluvial Geomorphology - Reading Riverscapes', // Navbar title
       logo: {
         alt: 'FLUVIAL Logo',
-        src: 'images/logo.png',
+        src: 'images/favicons/android-icon-144x144.png',
       },
       items: [
         // { to: '/menu', label: 'MENU HERE', position: 'left' },
